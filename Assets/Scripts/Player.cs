@@ -5,7 +5,12 @@ public class Player : MonoBehaviour
     [Header("Movement")]
     public float moveSpeed = 8f;
     public float sprintSpeed = 12f;
-    public float acceleration = 10f;
+
+    [Header("Movement Feel")]
+    public float accelerationRate = 25f;
+    public float decelerationRate = 40f;
+    public float airControlMultiplier = 0.6f;
+    public float directionChangeBoost = 2f;
 
     [Header("Jump")]
     public float jumpForce = 6f;
@@ -27,14 +32,11 @@ public class Player : MonoBehaviour
 
     void Update()
     {
-        // Input
         moveInput = Input.GetAxis("Horizontal");
         isSprinting = Input.GetKey(KeyCode.LeftShift);
 
-        // Jump
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
-            // Keep horizontal momentum, only affect Y
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         }
@@ -49,18 +51,50 @@ public class Player : MonoBehaviour
             groundLayer
         );
 
-        // Choose speed
-        float targetSpeed = isSprinting ? sprintSpeed : moveSpeed;
+        HandleMovement();
+    }
 
-        // Smooth movement (prevents weird stuck feeling)
+    void HandleMovement()
+    {
+        float targetSpeed = isSprinting ? sprintSpeed : moveSpeed;
         float targetVelocityX = moveInput * targetSpeed;
 
-        float velocityX = Mathf.Lerp(
+        // Decide accel vs decel
+        float accelRate = (Mathf.Abs(targetVelocityX) > 0.01f)
+            ? accelerationRate
+            : decelerationRate;
+
+        // Air control
+        if (!isGrounded)
+        {
+            accelRate *= airControlMultiplier;
+        }
+
+        // Stronger direction change
+        if (moveInput != 0 && Mathf.Sign(moveInput) != Mathf.Sign(rb.linearVelocity.x))
+        {
+            accelRate *= directionChangeBoost;
+        }
+
+        // Move towards target velocity
+        float newVelocityX = Mathf.MoveTowards(
             rb.linearVelocity.x,
             targetVelocityX,
-            acceleration * Time.fixedDeltaTime
+            accelRate * Time.fixedDeltaTime
         );
 
-        rb.linearVelocity = new Vector2(velocityX, rb.linearVelocity.y);
+        // 🔧 Anti-stuck safeguard
+        if (moveInput != 0 && Mathf.Abs(newVelocityX) < 0.1f)
+        {
+            newVelocityX = moveInput * 1.5f;
+        }
+
+        // Prevent micro drifting
+        if (moveInput == 0 && Mathf.Abs(newVelocityX) < 0.05f)
+        {
+            newVelocityX = 0f;
+        }
+
+        rb.linearVelocity = new Vector2(newVelocityX, rb.linearVelocity.y);
     }
 }
