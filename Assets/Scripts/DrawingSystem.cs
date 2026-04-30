@@ -15,11 +15,13 @@ public class DrawingSystem : MonoBehaviour
     private List<Vector2> points = new List<Vector2>(); // Stores drawn points
     private Camera cam;
     private bool isDrawing = false;
-
+    private EdgeCollider2D edgeCollider;
     void Start()
     {
         cam = Camera.main;
         lineRenderer.positionCount = 0;
+        edgeCollider = GetComponent<EdgeCollider2D>();
+        edgeCollider.enabled = false;
     }
 
     void Update()
@@ -111,7 +113,8 @@ public class DrawingSystem : MonoBehaviour
         }
 
         // Clear drawing after short delay (so you can see result if needed)
-        Invoke(nameof(ClearLine), 0.1f);
+        //Invoke(nameof(ClearLine), 0.1f);
+        Invoke(nameof(ClearLine), 5f);
     }
 
     // =========================
@@ -200,7 +203,8 @@ public class DrawingSystem : MonoBehaviour
     {
         Debug.Log("Line detected");
 
-        // TODO: spawn platform here later
+        edgeCollider.enabled = true;
+        edgeCollider.points = points.ToArray();
     }
 
     void HandleCircle()
