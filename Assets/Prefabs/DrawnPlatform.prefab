@@ -11,7 +11,8 @@ GameObject:
   - component: {fileID: 7641885599211388875}
   - component: {fileID: 7600504859198360453}
   - component: {fileID: 8636116182410315902}
-  m_Layer: 0
+  - component: {fileID: 3324230122718616075}
+  m_Layer: 3
   m_Name: DrawnPlatform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -186,3 +187,15 @@ LineRenderer:
   m_UseWorldSpace: 1
   m_Loop: 0
   m_ApplyActiveColorSpace: 1
+--- !u!114 &3324230122718616075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4360555599289136995}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9b07fe98fc27274fa4396d60ceec2b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DrawnPlatform
