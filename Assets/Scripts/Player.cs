@@ -21,6 +21,7 @@ public class Player : MonoBehaviour
     public LayerMask groundLayer;
 
     private Rigidbody2D rb;
+    private Animator animator;
     private bool isGrounded;
     private float moveInput;
     private bool isSprinting;
@@ -28,6 +29,7 @@ public class Player : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
     void Update()
@@ -40,6 +42,8 @@ public class Player : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         }
+
+        HandleFlip();
     }
 
     void FixedUpdate()
@@ -52,6 +56,11 @@ public class Player : MonoBehaviour
         );
 
         HandleMovement();
+    }
+
+    void LateUpdate()
+    {
+        UpdateAnimation();
     }
 
     void HandleMovement()
@@ -96,5 +105,27 @@ public class Player : MonoBehaviour
         }
 
         rb.linearVelocity = new Vector2(newVelocityX, rb.linearVelocity.y);
+    }
+
+    //animation
+    void UpdateAnimation()
+    {
+        if (animator == null) return;
+
+        animator.SetFloat("Speed", Mathf.Abs(rb.linearVelocity.x)); 
+        animator.SetBool("IsGrounded", isGrounded); // ⭐ NEW
+        animator.SetFloat("VerticalVelocity", rb.linearVelocity.y); 
+    }
+
+    void HandleFlip() 
+    {
+        if (moveInput > 0)
+        {
+            transform.localScale = new Vector3(1, 1, 1);
+        }
+        else if (moveInput < 0)
+        {
+            transform.localScale = new Vector3(-1, 1, 1);
+        }
     }
 }
