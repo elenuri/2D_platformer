@@ -22,6 +22,8 @@ public class Player : MonoBehaviour
 
     private Rigidbody2D rb;
     private Animator animator;
+    private SpriteRenderer sr;
+
     private bool isGrounded;
     private float moveInput;
     private bool isSprinting;
@@ -30,6 +32,7 @@ public class Player : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        sr = GetComponent<SpriteRenderer>();
     }
 
     void Update()
@@ -37,6 +40,7 @@ public class Player : MonoBehaviour
         moveInput = Input.GetAxis("Horizontal");
         isSprinting = Input.GetKey(KeyCode.LeftShift);
 
+        // Jump
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
@@ -92,7 +96,7 @@ public class Player : MonoBehaviour
             accelRate * Time.fixedDeltaTime
         );
 
-        // 🔧 Anti-stuck safeguard
+        // Anti-stuck safeguard
         if (moveInput != 0 && Mathf.Abs(newVelocityX) < 0.1f)
         {
             newVelocityX = moveInput * 1.5f;
@@ -107,25 +111,35 @@ public class Player : MonoBehaviour
         rb.linearVelocity = new Vector2(newVelocityX, rb.linearVelocity.y);
     }
 
-    //animation
+    // Animation
     void UpdateAnimation()
     {
         if (animator == null) return;
 
-        animator.SetFloat("Speed", Mathf.Abs(rb.linearVelocity.x)); 
-        animator.SetBool("IsGrounded", isGrounded); // ⭐ NEW
-        animator.SetFloat("VerticalVelocity", rb.linearVelocity.y); 
+        animator.SetFloat("Speed", Mathf.Abs(rb.linearVelocity.x));
+        animator.SetBool("IsGrounded", isGrounded);
+        animator.SetFloat("VerticalVelocity", rb.linearVelocity.y);
     }
 
-    void HandleFlip() 
+    // Flip sprite without changing scale
+    void HandleFlip()
     {
         if (moveInput > 0)
         {
-            transform.localScale = new Vector3(1, 1, 1);
+            sr.flipX = false;
         }
         else if (moveInput < 0)
         {
-            transform.localScale = new Vector3(-1, 1, 1);
+            sr.flipX = true;
         }
+    }
+
+    // Draw ground check in Scene view
+    void OnDrawGizmosSelected()
+    {
+        if (groundCheck == null) return;
+
+        Gizmos.color = Color.green;
+        Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
     }
 }
