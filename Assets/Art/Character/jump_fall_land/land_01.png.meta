@@ -103,13 +103,13 @@ TextureImporter:
       name: land_01_0
       rect:
         serializedVersion: 2
-        x: 145
-        y: 2
+        x: 142
+        y: 11
         width: 302
         height: 296
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 6, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: fbee490d49626ee4081855d924516f2f
     internalID: 0
     vertices: []
     indices: 

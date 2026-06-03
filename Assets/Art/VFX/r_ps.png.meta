@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8e7fc95187fe3914e9515ad033f3217d
+guid: 2383bfd7ec314b943ac87550d7c58490
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6669736374991615773
-    second: land_03_0
+      213: -9005048247121052788
+    second: r_ps_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -48,10 +48,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 400
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: land_03_0
+      name: r_ps_0
       rect:
         serializedVersion: 2
-        x: 149
-        y: 3
-        width: 294
-        height: 392
-      alignment: 9
-      pivot: {x: 0.5, y: 0.55}
+        x: 7
+        y: 2
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3e88f1fca165073a0800000000000000
-      internalID: -6669736374991615773
+      spriteID: c8b781d7454a70380800000000000000
+      internalID: -9005048247121052788
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 7b7011c70ea4f764f94fdd6f8d9def7e
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      land_03_0: -6669736374991615773
+      r_ps_0: -9005048247121052788
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

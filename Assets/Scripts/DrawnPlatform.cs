@@ -3,6 +3,9 @@ using UnityEngine;
 
 public class DrawnPlatform : MonoBehaviour
 {
+    [Header("Lifetime")]
+    public float lifeTime = 5f;
+
     private EdgeCollider2D edgeCollider;
     private LineRenderer lineRenderer;
 
@@ -12,12 +15,15 @@ public class DrawnPlatform : MonoBehaviour
         lineRenderer = GetComponent<LineRenderer>();
     }
 
+    void Start()
+    {
+        Destroy(gameObject, lifeTime);
+    }
+
     public void Initialize(List<Vector2> points)
     {
-        // Set collider
         edgeCollider.points = points.ToArray();
 
-        // Set visual line
         lineRenderer.positionCount = points.Count;
 
         for (int i = 0; i < points.Count; i++)
