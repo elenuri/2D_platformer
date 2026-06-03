@@ -20,6 +20,10 @@ public class Player : MonoBehaviour
     public float groundCheckRadius = 0.2f;
     public LayerMask groundLayer;
 
+    [Header("VFX")]
+    public Transform runParticlePoint;
+    public ParticleSystem runParticles;
+
     private Rigidbody2D rb;
     private Animator animator;
     private SpriteRenderer sr;
@@ -33,6 +37,12 @@ public class Player : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         sr = GetComponent<SpriteRenderer>();
+
+        if (runParticlePoint == null)
+            Debug.LogWarning("Run Particle Point is not assigned!");
+
+        if (runParticles == null)
+            Debug.LogWarning("Run Particles is not assigned!");
     }
 
     void Update()
@@ -40,7 +50,6 @@ public class Player : MonoBehaviour
         moveInput = Input.GetAxis("Horizontal");
         isSprinting = Input.GetKey(KeyCode.LeftShift);
 
-        // Jump
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
@@ -52,7 +61,6 @@ public class Player : MonoBehaviour
 
     void FixedUpdate()
     {
-        // Ground check
         isGrounded = Physics2D.OverlapCircle(
             groundCheck.position,
             groundCheckRadius,
@@ -65,6 +73,7 @@ public class Player : MonoBehaviour
     void LateUpdate()
     {
         UpdateAnimation();
+        HandleRunParticles();
     }
 
     void HandleMovement()
@@ -72,46 +81,37 @@ public class Player : MonoBehaviour
         float targetSpeed = isSprinting ? sprintSpeed : moveSpeed;
         float targetVelocityX = moveInput * targetSpeed;
 
-        // Decide accel vs decel
         float accelRate = (Mathf.Abs(targetVelocityX) > 0.01f)
             ? accelerationRate
             : decelerationRate;
 
-        // Air control
         if (!isGrounded)
-        {
             accelRate *= airControlMultiplier;
-        }
 
-        // Stronger direction change
-        if (moveInput != 0 && Mathf.Sign(moveInput) != Mathf.Sign(rb.linearVelocity.x))
+        if (moveInput != 0 &&
+            Mathf.Sign(moveInput) != Mathf.Sign(rb.linearVelocity.x))
         {
             accelRate *= directionChangeBoost;
         }
 
-        // Move towards target velocity
         float newVelocityX = Mathf.MoveTowards(
             rb.linearVelocity.x,
             targetVelocityX,
             accelRate * Time.fixedDeltaTime
         );
 
-        // Anti-stuck safeguard
         if (moveInput != 0 && Mathf.Abs(newVelocityX) < 0.1f)
-        {
             newVelocityX = moveInput * 1.5f;
-        }
 
-        // Prevent micro drifting
         if (moveInput == 0 && Mathf.Abs(newVelocityX) < 0.05f)
-        {
             newVelocityX = 0f;
-        }
 
-        rb.linearVelocity = new Vector2(newVelocityX, rb.linearVelocity.y);
+        rb.linearVelocity = new Vector2(
+            newVelocityX,
+            rb.linearVelocity.y
+        );
     }
 
-    // Animation
     void UpdateAnimation()
     {
         if (animator == null) return;
@@ -121,25 +121,61 @@ public class Player : MonoBehaviour
         animator.SetFloat("VerticalVelocity", rb.linearVelocity.y);
     }
 
-    // Flip sprite without changing scale
     void HandleFlip()
     {
+        if (runParticlePoint == null) return;
+
         if (moveInput > 0)
         {
             sr.flipX = false;
+
+            runParticlePoint.localPosition =
+                new Vector3(-0.3f, -0.5f, 0f);
         }
         else if (moveInput < 0)
         {
             sr.flipX = true;
+
+            runParticlePoint.localPosition =
+                new Vector3(0.3f, -0.5f, 0f);
         }
     }
 
-    // Draw ground check in Scene view
+    void HandleRunParticles()
+    {
+        if (runParticles == null) return;
+
+        bool isRunning =
+            isGrounded &&
+            Mathf.Abs(moveInput) > 0.1f &&
+            Mathf.Abs(rb.linearVelocity.x) > 1f;
+
+        if (isRunning)
+        {
+            if (!runParticles.isPlaying)
+            {
+                Debug.Log("PLAY PARTICLES");
+                runParticles.Play();
+            }
+        }
+        else
+        {
+            if (runParticles.isPlaying)
+            {
+                Debug.Log("STOP PARTICLES");
+                runParticles.Stop();
+            }
+        }
+    }
+
     void OnDrawGizmosSelected()
     {
         if (groundCheck == null) return;
 
         Gizmos.color = Color.green;
-        Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
+        Gizmos.DrawWireSphere(
+            groundCheck.position,
+            groundCheckRadius
+        );
     }
 }
