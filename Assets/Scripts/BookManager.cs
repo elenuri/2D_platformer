@@ -2,64 +2,71 @@ using UnityEngine;
 
 public class BookManager : MonoBehaviour
 {
-    public int currentPage = 0;
+    [Header("Page Textures")]
+    public Texture2D[] pages;
 
-    public GameObject instructionsPage;
-    public GameObject levelMapPage;
-    public GameObject gomaPage;
+    [Header("Renderers")]
+    public MeshRenderer staticPage;
+    public MeshRenderer turningPage;
 
+    [Header("Animator")]
     public Animator pageAnimator;
+
+    private int currentPage = 0;
+    private bool isFlipping = false;
 
     void Start()
     {
-       // ShowPage(currentPage);
+        turningPage.enabled = false;
+        ShowStaticPage(currentPage);
     }
 
-    public void ShowPage(int page)
+    void ShowStaticPage(int index)
     {
-        instructionsPage.SetActive(false);
-        levelMapPage.SetActive(false);
-        gomaPage.SetActive(false);
+        Material[] mats = staticPage.materials;
+        mats[0].SetTexture("_BaseMap", pages[index]);
+        staticPage.materials = mats;
+    }
 
-        switch (page)
-        {
-            case 0:
-                instructionsPage.SetActive(true);
-                break;
-
-            case 1:
-                levelMapPage.SetActive(true);
-                break;
-
-            case 2:
-                gomaPage.SetActive(true);
-                break;
-        }
+    void ShowTurningPage(int index)
+    {
+        Material[] mats = turningPage.materials;
+        mats[0].SetTexture("_BaseMap", pages[index]);
+        turningPage.materials = mats;
     }
 
     public void NextPage()
     {
+        if (isFlipping)
+            return;
+
+        if (currentPage >= pages.Length - 1)
+            return;
+
+        isFlipping = true;
+
+        // Turning page shows current page
+        ShowTurningPage(currentPage);
+
+        // Static page immediately becomes next page
+        ShowStaticPage(currentPage + 1);
+
+        turningPage.enabled = true;
+
+        pageAnimator.ResetTrigger("Flip");
         pageAnimator.SetTrigger("Flip");
     }
 
-    public void PreviousPage()
+    // Called by the LAST animation event
+    public void FinishFlip()
     {
-        currentPage--;
+        turningPage.enabled = false;
 
-        if (currentPage < 0)
-            currentPage = 0;
-
-        ShowPage(currentPage);
-    }
-
-    // Called later from Animation Event
-    public void SwapToNextPage()
-    {
         currentPage++;
 
-        if (currentPage > 2)
-            currentPage = 2;
+        // Force animator back to Idle immediately
+        pageAnimator.Play("Idle", 0, 0f);
 
-        ShowPage(currentPage);
+        isFlipping = false;
     }
 }
