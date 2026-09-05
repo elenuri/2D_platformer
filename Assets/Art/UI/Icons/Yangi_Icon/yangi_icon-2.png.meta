@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: ed70e69443eea084c99797f71c8bf9ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8631790240998863969
+    second: yangi_icon-2_0
+  - first:
+      213: -6801894142256548661
+    second: yangi_icon-2_1
+  - first:
+      213: 1881713732524543859
+    second: yangi_icon-2_2
+  - first:
+      213: -7007116594264760312
+    second: yangi_icon-2_3
+  - first:
+      213: -7019166388519483771
+    second: yangi_icon-2_4
+  - first:
+      213: 4958437507812362189
+    second: yangi_icon-2_5
+  - first:
+      213: -1511658313560868086
+    second: yangi_icon-2_6
+  - first:
+      213: -3833925503622998938
+    second: yangi_icon-2_7
+  - first:
+      213: -400436234348322441
+    second: yangi_icon-2_8
+  - first:
+      213: -7712046955515026659
+    second: yangi_icon-2_9
+  - first:
+      213: -5215464388371568945
+    second: yangi_icon-2_10
+  - first:
+      213: 8563549734086478450
+    second: yangi_icon-2_11
+  - first:
+      213: 5507799551893370683
+    second: yangi_icon-2_12
+  - first:
+      213: 2278372173357127194
+    second: yangi_icon-2_13
+  - first:
+      213: -2642895627882490966
+    second: yangi_icon-2_14
+  - first:
+      213: 7391146313087110923
+    second: yangi_icon-2_15
+  - first:
+      213: 2909301648309196606
+    second: yangi_icon-2_16
+  - first:
+      213: 9057297485905454742
+    second: yangi_icon-2_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yangi_icon-2_0
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1177
+        width: 164
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164bb62bd774ac770800000000000000
+      internalID: 8631790240998863969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_icon-2_1
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1584
+        width: 152
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4fcfac051da91a0800000000000000
+      internalID: -6801894142256548661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_icon-2_2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 896
+        width: 126
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f89148ba03d1a10800000000000000
+      internalID: 1881713732524543859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_icon-2_3
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 960
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800aa133598b1ce90800000000000000
+      internalID: -7007116594264760312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_icon-2_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 768
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5864fe8db59e69e90800000000000000
+      internalID: -7019166388519483771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_icon-2_5
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 584
+        width: 69
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7012674a8efc440800000000000000
+      internalID: 4958437507812362189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_icon-2_6
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 407
+        width: 231
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b307ed5c2850be0800000000000000
+      internalID: -1511658313560868086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_icon-2_7
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 595
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6649d3541192bcac0800000000000000
+      internalID: -3833925503622998938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_icon-2_8
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 615
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7712970dd5d517af0800000000000000
+      internalID: -400436234348322441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_icon-2_9
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 545
+        width: 107
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13e465772e49f490800000000000000
+      internalID: -7712046955515026659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_icon-2_10
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 122
+        width: 281
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6a96085c2fe97b0800000000000000
+      internalID: -5215464388371568945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_icon-2_11
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 334
+        width: 131
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a8d9c8c17d7d670800000000000000
+      internalID: 8563549734086478450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_icon-2_12
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 482
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37f8a8c282af6c40800000000000000
+      internalID: 5507799551893370683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_icon-2_13
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 471
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16161b9b676e9f10800000000000000
+      internalID: 2278372173357127194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_icon-2_14
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 203
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa391a9dd6c825bd0800000000000000
+      internalID: -2642895627882490966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_icon-2_15
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 113
+        width: 181
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fce7a6960a29660800000000000000
+      internalID: 7391146313087110923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_icon-2_16
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 147
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e379deb5f6aef5820800000000000000
+      internalID: 2909301648309196606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_icon-2_17
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 118
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696ee68631cf1bd70800000000000000
+      internalID: 9057297485905454742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      yangi_icon-2_0: 8631790240998863969
+      yangi_icon-2_1: -6801894142256548661
+      yangi_icon-2_10: -5215464388371568945
+      yangi_icon-2_11: 8563549734086478450
+      yangi_icon-2_12: 5507799551893370683
+      yangi_icon-2_13: 2278372173357127194
+      yangi_icon-2_14: -2642895627882490966
+      yangi_icon-2_15: 7391146313087110923
+      yangi_icon-2_16: 2909301648309196606
+      yangi_icon-2_17: 9057297485905454742
+      yangi_icon-2_2: 1881713732524543859
+      yangi_icon-2_3: -7007116594264760312
+      yangi_icon-2_4: -7019166388519483771
+      yangi_icon-2_5: 4958437507812362189
+      yangi_icon-2_6: -1511658313560868086
+      yangi_icon-2_7: -3833925503622998938
+      yangi_icon-2_8: -400436234348322441
+      yangi_icon-2_9: -7712046955515026659
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

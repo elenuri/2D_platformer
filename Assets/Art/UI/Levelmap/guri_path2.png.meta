@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: eac41f1e4d385994798d1c7ff9962c05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4818985930896468120
+    second: guri_path2_0
+  - first:
+      213: 4119368477616397008
+    second: guri_path2_1
+  - first:
+      213: 744193228295113880
+    second: guri_path2_2
+  - first:
+      213: 1138527609171615601
+    second: guri_path2_3
+  - first:
+      213: -1604932097311590957
+    second: guri_path2_4
+  - first:
+      213: 7600068182635591525
+    second: guri_path2_5
+  - first:
+      213: 5605542469364900595
+    second: guri_path2_6
+  - first:
+      213: 8650391009027373283
+    second: guri_path2_7
+  - first:
+      213: -4010850841955759033
+    second: guri_path2_8
+  - first:
+      213: 3879155986268064823
+    second: guri_path2_9
+  - first:
+      213: -2966120364172771223
+    second: guri_path2_10
+  - first:
+      213: 3571563191814451870
+    second: guri_path2_11
+  - first:
+      213: 5876077720825141764
+    second: guri_path2_12
+  - first:
+      213: 5743240851171567880
+    second: guri_path2_13
+  - first:
+      213: 7084034892132223476
+    second: guri_path2_14
+  - first:
+      213: 6405447639767965841
+    second: guri_path2_15
+  - first:
+      213: 1283378838767517093
+    second: guri_path2_16
+  - first:
+      213: 9193984236619856081
+    second: guri_path2_17
+  - first:
+      213: 3145216421860842181
+    second: guri_path2_18
+  - first:
+      213: 3756281346180220083
+    second: guri_path2_19
+  - first:
+      213: -2405925064005905513
+    second: guri_path2_20
+  - first:
+      213: 7343643914039861165
+    second: guri_path2_21
+  - first:
+      213: -5885483126511278705
+    second: guri_path2_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 225
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guri_path2_0
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 1964
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8679f43f3d58f1db0800000000000000
+      internalID: -4818985930896468120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_1
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 1974
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da54471ecfea2930800000000000000
+      internalID: 4119368477616397008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_2
+      rect:
+        serializedVersion: 2
+        x: 3251
+        y: 1944
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c08c85cc7e35a00800000000000000
+      internalID: 744193228295113880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_3
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1111
+        width: 273
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f16af04dcdccf00800000000000000
+      internalID: 1138527609171615601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_4
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1183
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5be13c2c22ab9e0800000000000000
+      internalID: -1604932097311590957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_5
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1166
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5673eb6cebdd87960800000000000000
+      internalID: 7600068182635591525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_6
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1182
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f26cdb2d23eacd40800000000000000
+      internalID: 5605542469364900595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_7
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1158
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e83f4d7acc5c0870800000000000000
+      internalID: 8650391009027373283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_8
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1168
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c862ed8689658c0800000000000000
+      internalID: -4010850841955759033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_9
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1151
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c86dd11d785d530800000000000000
+      internalID: 3879155986268064823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_10
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1192
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9600e647e3936d6d0800000000000000
+      internalID: -2966120364172771223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_11
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1173
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92f5fccccdb09130800000000000000
+      internalID: 3571563191814451870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_12
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1158
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a9e56ed850c8150800000000000000
+      internalID: 5876077720825141764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_13
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1169
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809e799002714bf40800000000000000
+      internalID: 5743240851171567880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_14
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1152
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9830a933c8f4260800000000000000
+      internalID: 7084034892132223476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_15
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1161
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190ebbbd0b8b4e850800000000000000
+      internalID: 6405447639767965841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_16
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adbdf4114a7fc110800000000000000
+      internalID: 1283378838767517093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_17
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1131
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8744e83f7979f70800000000000000
+      internalID: 9193984236619856081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_18
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1122
+        width: 145
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca9dbeebad06ab20800000000000000
+      internalID: 3145216421860842181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_19
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b48f739bfdf02430800000000000000
+      internalID: 3756281346180220083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_20
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1135
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79318b3c6ef6c9ed0800000000000000
+      internalID: -2405925064005905513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_21
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1117
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf1e454b3dd9e560800000000000000
+      internalID: 7343643914039861165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_path2_22
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1119
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f856db07740925ea0800000000000000
+      internalID: -5885483126511278705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      guri_path2_0: -4818985930896468120
+      guri_path2_1: 4119368477616397008
+      guri_path2_10: -2966120364172771223
+      guri_path2_11: 3571563191814451870
+      guri_path2_12: 5876077720825141764
+      guri_path2_13: 5743240851171567880
+      guri_path2_14: 7084034892132223476
+      guri_path2_15: 6405447639767965841
+      guri_path2_16: 1283378838767517093
+      guri_path2_17: 9193984236619856081
+      guri_path2_18: 3145216421860842181
+      guri_path2_19: 3756281346180220083
+      guri_path2_2: 744193228295113880
+      guri_path2_20: -2405925064005905513
+      guri_path2_21: 7343643914039861165
+      guri_path2_22: -5885483126511278705
+      guri_path2_3: 1138527609171615601
+      guri_path2_4: -1604932097311590957
+      guri_path2_5: 7600068182635591525
+      guri_path2_6: 5605542469364900595
+      guri_path2_7: 8650391009027373283
+      guri_path2_8: -4010850841955759033
+      guri_path2_9: 3879155986268064823
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

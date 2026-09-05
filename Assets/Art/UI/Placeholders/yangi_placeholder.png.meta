@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 9112543b18492a84e8568a16a07b9cfd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6321408356532968260
+    second: yangi_placeholder_0
+  - first:
+      213: -2585806751690067839
+    second: yangi_placeholder_1
+  - first:
+      213: -7490773568122041889
+    second: yangi_placeholder_2
+  - first:
+      213: 8324366760012239187
+    second: yangi_placeholder_3
+  - first:
+      213: 2709052095979699591
+    second: yangi_placeholder_4
+  - first:
+      213: 8235306374365570002
+    second: yangi_placeholder_5
+  - first:
+      213: -6233525072416881615
+    second: yangi_placeholder_6
+  - first:
+      213: 4382708098759000359
+    second: yangi_placeholder_7
+  - first:
+      213: -6984536765357673351
+    second: yangi_placeholder_8
+  - first:
+      213: 4775296049895968969
+    second: yangi_placeholder_9
+  - first:
+      213: 1003576265659116497
+    second: yangi_placeholder_10
+  - first:
+      213: -2361186718922652319
+    second: yangi_placeholder_11
+  - first:
+      213: 8625197069470940008
+    second: yangi_placeholder_12
+  - first:
+      213: 252630099637077672
+    second: yangi_placeholder_13
+  - first:
+      213: 4243554723208891139
+    second: yangi_placeholder_14
+  - first:
+      213: 7564211501514686200
+    second: yangi_placeholder_15
+  - first:
+      213: 4115265695277279451
+    second: yangi_placeholder_16
+  - first:
+      213: 7571618934414372639
+    second: yangi_placeholder_17
+  - first:
+      213: -7336786344221470390
+    second: yangi_placeholder_18
+  - first:
+      213: -5165456050433213311
+    second: yangi_placeholder_19
+  - first:
+      213: -386549506918248322
+    second: yangi_placeholder_20
+  - first:
+      213: -8679136994050120841
+    second: yangi_placeholder_21
+  - first:
+      213: -777463922879764326
+    second: yangi_placeholder_22
+  - first:
+      213: 8632640553220101709
+    second: yangi_placeholder_23
+  - first:
+      213: 4955482803863860527
+    second: yangi_placeholder_24
+  - first:
+      213: 1637410660459653169
+    second: yangi_placeholder_25
+  - first:
+      213: -9145892461463397193
+    second: yangi_placeholder_26
+  - first:
+      213: 5678861685647457953
+    second: yangi_placeholder_27
+  - first:
+      213: 5725434209851950969
+    second: yangi_placeholder_28
+  - first:
+      213: -3311762080369173106
+    second: yangi_placeholder_29
+  - first:
+      213: 2356944592765244041
+    second: yangi_placeholder_30
+  - first:
+      213: -3199237122658652495
+    second: yangi_placeholder_31
+  - first:
+      213: 6925612847283502357
+    second: yangi_placeholder_32
+  - first:
+      213: 7525180261554993060
+    second: yangi_placeholder_33
+  - first:
+      213: 2087439765929454629
+    second: yangi_placeholder_34
+  - first:
+      213: -4131510476265398116
+    second: yangi_placeholder_35
+  - first:
+      213: -3373066595960266094
+    second: yangi_placeholder_36
+  - first:
+      213: 4181783314244142669
+    second: yangi_placeholder_37
+  - first:
+      213: 8878328444370399144
+    second: yangi_placeholder_38
+  - first:
+      213: 5727469099564940648
+    second: yangi_placeholder_39
+  - first:
+      213: 4308669098992831276
+    second: yangi_placeholder_40
+  - first:
+      213: 4817648546435799189
+    second: yangi_placeholder_41
+  - first:
+      213: 7219889533228352989
+    second: yangi_placeholder_42
+  - first:
+      213: -3027582272062577892
+    second: yangi_placeholder_43
+  - first:
+      213: 3887024040153067304
+    second: yangi_placeholder_44
+  - first:
+      213: -5358051264540259927
+    second: yangi_placeholder_45
+  - first:
+      213: -748560044292365182
+    second: yangi_placeholder_46
+  - first:
+      213: -6103049671508983994
+    second: yangi_placeholder_47
+  - first:
+      213: -6366228160710457394
+    second: yangi_placeholder_48
+  - first:
+      213: 8354881472058048402
+    second: yangi_placeholder_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yangi_placeholder_0
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1571
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b555378672ab750800000000000000
+      internalID: 6321408356532968260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_1
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1503
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180f4b3a57e5d1cd0800000000000000
+      internalID: -2585806751690067839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_2
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1490
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9433ba02d6b0890800000000000000
+      internalID: -7490773568122041889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_3
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1399
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351599eb677168370800000000000000
+      internalID: 8324366760012239187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_4
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1351
+        width: 39
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78db5e2378c789520800000000000000
+      internalID: 2709052095979699591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1318
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3e194d38fa94270800000000000000
+      internalID: 8235306374365570002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_6
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1369
+        width: 86
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134c91829f11e79a0800000000000000
+      internalID: -6233525072416881615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1311
+        width: 215
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72102c49bc182dc30800000000000000
+      internalID: 4382708098759000359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_8
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1329
+        width: 71
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974333c41d0f11f90800000000000000
+      internalID: -6984536765357673351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1184
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0106fe472454240800000000000000
+      internalID: 4775296049895968969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_10
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1199
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbef93eb4b6ded00800000000000000
+      internalID: 1003576265659116497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1058
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165ce3270316b3fd0800000000000000
+      internalID: -2361186718922652319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_12
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1078
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b3e83590bd2b770800000000000000
+      internalID: 8625197069470940008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 950
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a68074bcb5818300800000000000000
+      internalID: 252630099637077672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_14
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 949
+        width: 20
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b0cc5998224ea30800000000000000
+      internalID: 4243554723208891139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 812
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fef4b1a84a79f860800000000000000
+      internalID: 7564211501514686200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_16
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 806
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd86a53a85c5c1930800000000000000
+      internalID: 4115265695277279451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 681
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fe3600e4bc31960800000000000000
+      internalID: 7571618934414372639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_18
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 698
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a411ebf11bf7e2a90800000000000000
+      internalID: -7336786344221470390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_19
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 696
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c3903071d9058b0800000000000000
+      internalID: -5165456050433213311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_20
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 701
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7019008543b2aaf0800000000000000
+      internalID: -386549506918248322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 626
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773e0b053e28d8780800000000000000
+      internalID: -8679136994050120841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_22
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 610
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98e11b6ea4e535f0800000000000000
+      internalID: -777463922879764326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_23
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 616
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46d05078dc4dc770800000000000000
+      internalID: 8632640553220101709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_24
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 534
+        width: 24
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25bcd6da5965c440800000000000000
+      internalID: 4955482803863860527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_25
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 578
+        width: 63
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138a220025049b610800000000000000
+      internalID: 1637410660459653169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 467
+        width: 33
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc1d886343431180800000000000000
+      internalID: -9145892461463397193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 452
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeb79d7d9e5fce40800000000000000
+      internalID: 5678861685647457953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 502
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97748174414d47f40800000000000000
+      internalID: 5725434209851950969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 498
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d9cf23fe14a02d0800000000000000
+      internalID: -3311762080369173106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_30
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 492
+        width: 26
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982dc079e9c85b020800000000000000
+      internalID: 2356944592765244041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_31
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 424
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be20b789c60a93d0800000000000000
+      internalID: -3199237122658652495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_32
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 397
+        width: 20
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51df63ee038bc1060800000000000000
+      internalID: 6925612847283502357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_33
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 408
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a734c8e39fce6860800000000000000
+      internalID: 7525180261554993060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_34
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 330
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cef3a486318fc10800000000000000
+      internalID: 2087439765929454629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_35
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 284
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90656c8c1de9a6c0800000000000000
+      internalID: -4131510476265398116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_36
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 340
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2926d006dc57031d0800000000000000
+      internalID: -3373066595960266094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_37
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 299
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d468d2da4cda80a30800000000000000
+      internalID: 4181783314244142669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_38
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 224
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afa1f54ea8263b70800000000000000
+      internalID: 8878328444370399144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_39
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 229
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d3895fcce0c7f40800000000000000
+      internalID: 5727469099564940648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_40
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 243
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b8b2c97b77bcb30800000000000000
+      internalID: 4308669098992831276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_41
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 160
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5989bf6f3d9bbd240800000000000000
+      internalID: 4817648546435799189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_42
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 191
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd503a12743323460800000000000000
+      internalID: 7219889533228352989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_43
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 127
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13a071e6fddbf5d0800000000000000
+      internalID: -3027582272062577892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_44
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 123
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f2aba25cb71f530800000000000000
+      internalID: 3887024040153067304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_45
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 132
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9ceb853c064a5b0800000000000000
+      internalID: -5358051264540259927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_46
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 102
+        width: 65
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28427e21b949c95f0800000000000000
+      internalID: -748560044292365182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_47
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 104
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f742bb8ac9d4ba0800000000000000
+      internalID: -6103049671508983994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_48
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 110
+        width: 85
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7c3c1b73d96a7a0800000000000000
+      internalID: -6366228160710457394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yangi_placeholder_49
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 105
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f338ace6082f370800000000000000
+      internalID: 8354881472058048402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      yangi_placeholder_0: 6321408356532968260
+      yangi_placeholder_1: -2585806751690067839
+      yangi_placeholder_10: 1003576265659116497
+      yangi_placeholder_11: -2361186718922652319
+      yangi_placeholder_12: 8625197069470940008
+      yangi_placeholder_13: 252630099637077672
+      yangi_placeholder_14: 4243554723208891139
+      yangi_placeholder_15: 7564211501514686200
+      yangi_placeholder_16: 4115265695277279451
+      yangi_placeholder_17: 7571618934414372639
+      yangi_placeholder_18: -7336786344221470390
+      yangi_placeholder_19: -5165456050433213311
+      yangi_placeholder_2: -7490773568122041889
+      yangi_placeholder_20: -386549506918248322
+      yangi_placeholder_21: -8679136994050120841
+      yangi_placeholder_22: -777463922879764326
+      yangi_placeholder_23: 8632640553220101709
+      yangi_placeholder_24: 4955482803863860527
+      yangi_placeholder_25: 1637410660459653169
+      yangi_placeholder_26: -9145892461463397193
+      yangi_placeholder_27: 5678861685647457953
+      yangi_placeholder_28: 5725434209851950969
+      yangi_placeholder_29: -3311762080369173106
+      yangi_placeholder_3: 8324366760012239187
+      yangi_placeholder_30: 2356944592765244041
+      yangi_placeholder_31: -3199237122658652495
+      yangi_placeholder_32: 6925612847283502357
+      yangi_placeholder_33: 7525180261554993060
+      yangi_placeholder_34: 2087439765929454629
+      yangi_placeholder_35: -4131510476265398116
+      yangi_placeholder_36: -3373066595960266094
+      yangi_placeholder_37: 4181783314244142669
+      yangi_placeholder_38: 8878328444370399144
+      yangi_placeholder_39: 5727469099564940648
+      yangi_placeholder_4: 2709052095979699591
+      yangi_placeholder_40: 4308669098992831276
+      yangi_placeholder_41: 4817648546435799189
+      yangi_placeholder_42: 7219889533228352989
+      yangi_placeholder_43: -3027582272062577892
+      yangi_placeholder_44: 3887024040153067304
+      yangi_placeholder_45: -5358051264540259927
+      yangi_placeholder_46: -748560044292365182
+      yangi_placeholder_47: -6103049671508983994
+      yangi_placeholder_48: -6366228160710457394
+      yangi_placeholder_49: 8354881472058048402
+      yangi_placeholder_5: 8235306374365570002
+      yangi_placeholder_6: -6233525072416881615
+      yangi_placeholder_7: 4382708098759000359
+      yangi_placeholder_8: -6984536765357673351
+      yangi_placeholder_9: 4775296049895968969
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

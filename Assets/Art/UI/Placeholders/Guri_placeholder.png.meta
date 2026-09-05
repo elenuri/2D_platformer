@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: 5f4f55fe3ee944945b6afcaea6769073
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4924155183224981988
+    second: Guri_placeholder_0
+  - first:
+      213: 2637067017790782714
+    second: Guri_placeholder_1
+  - first:
+      213: -3149854966853795607
+    second: Guri_placeholder_2
+  - first:
+      213: -6199026884827914244
+    second: Guri_placeholder_3
+  - first:
+      213: 3076631416987295888
+    second: Guri_placeholder_4
+  - first:
+      213: 7199750570539179515
+    second: Guri_placeholder_5
+  - first:
+      213: 2686104820940003366
+    second: Guri_placeholder_6
+  - first:
+      213: 4616196989941490872
+    second: Guri_placeholder_7
+  - first:
+      213: -5502400543020977493
+    second: Guri_placeholder_8
+  - first:
+      213: 1695436275977201754
+    second: Guri_placeholder_9
+  - first:
+      213: -2996389709853473248
+    second: Guri_placeholder_10
+  - first:
+      213: 6618434250016167358
+    second: Guri_placeholder_11
+  - first:
+      213: 3339545412860189271
+    second: Guri_placeholder_12
+  - first:
+      213: 8693489919290214474
+    second: Guri_placeholder_13
+  - first:
+      213: 2461434539186296847
+    second: Guri_placeholder_14
+  - first:
+      213: -5632519173538629418
+    second: Guri_placeholder_15
+  - first:
+      213: -7459312531618715093
+    second: Guri_placeholder_16
+  - first:
+      213: -1528367958501334149
+    second: Guri_placeholder_17
+  - first:
+      213: -5380354466885560212
+    second: Guri_placeholder_18
+  - first:
+      213: 8213338756957795118
+    second: Guri_placeholder_19
+  - first:
+      213: 5429356233200219131
+    second: Guri_placeholder_20
+  - first:
+      213: -5316973826264516012
+    second: Guri_placeholder_21
+  - first:
+      213: -8425408258388636811
+    second: Guri_placeholder_22
+  - first:
+      213: -6035500199780051389
+    second: Guri_placeholder_23
+  - first:
+      213: 110216795582546953
+    second: Guri_placeholder_24
+  - first:
+      213: -3399967110380051378
+    second: Guri_placeholder_25
+  - first:
+      213: 8386257207031035891
+    second: Guri_placeholder_26
+  - first:
+      213: -4967549511331265230
+    second: Guri_placeholder_27
+  - first:
+      213: 4149422874970744154
+    second: Guri_placeholder_28
+  - first:
+      213: 7684480320304341335
+    second: Guri_placeholder_29
+  - first:
+      213: 7562990508184821385
+    second: Guri_placeholder_30
+  - first:
+      213: 3705553033872595019
+    second: Guri_placeholder_31
+  - first:
+      213: 6211641343450756640
+    second: Guri_placeholder_32
+  - first:
+      213: -5699028718974063749
+    second: Guri_placeholder_33
+  - first:
+      213: 6620702377971435695
+    second: Guri_placeholder_34
+  - first:
+      213: -3002148961206523211
+    second: Guri_placeholder_35
+  - first:
+      213: -6735314371816747662
+    second: Guri_placeholder_36
+  - first:
+      213: -196606739555692572
+    second: Guri_placeholder_37
+  - first:
+      213: -6911228763870560804
+    second: Guri_placeholder_38
+  - first:
+      213: 7635724070510501110
+    second: Guri_placeholder_39
+  - first:
+      213: -5240111758584843161
+    second: Guri_placeholder_40
+  - first:
+      213: 3377579760639742183
+    second: Guri_placeholder_41
+  - first:
+      213: 271606338536559264
+    second: Guri_placeholder_42
+  - first:
+      213: -8097091134971350259
+    second: Guri_placeholder_43
+  - first:
+      213: 1013122262388171908
+    second: Guri_placeholder_44
+  - first:
+      213: -9004209723200007981
+    second: Guri_placeholder_45
+  - first:
+      213: -8256650941858173546
+    second: Guri_placeholder_46
+  - first:
+      213: -7150133112600179432
+    second: Guri_placeholder_47
+  - first:
+      213: -3147767694266886442
+    second: Guri_placeholder_48
+  - first:
+      213: 463611593864674748
+    second: Guri_placeholder_49
+  - first:
+      213: 332144194775860540
+    second: Guri_placeholder_50
+  - first:
+      213: 6964769338004819885
+    second: Guri_placeholder_51
+  - first:
+      213: 3661365851492496901
+    second: Guri_placeholder_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guri_placeholder_0
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1569
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e90603cc0d165440800000000000000
+      internalID: 4924155183224981988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_1
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1583
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc715c1b7eb89420800000000000000
+      internalID: 2637067017790782714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1452
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e00ea6a8977944d0800000000000000
+      internalID: -3149854966853795607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_3
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1512
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff5cb064e1a8f9a0800000000000000
+      internalID: -6199026884827914244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_4
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1478
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090a55a19f362ba20800000000000000
+      internalID: 3076631416987295888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_5
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1438
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd576c7ff6aae360800000000000000
+      internalID: 7199750570539179515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1386
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628d7916a16f64520800000000000000
+      internalID: 2686104820940003366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_7
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1382
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4a0b664b6001040800000000000000
+      internalID: 4616196989941490872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_8
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1369
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2715debdb83a3b0800000000000000
+      internalID: -5502400543020977493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_9
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1346
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58aee86f46678710800000000000000
+      internalID: 1695436275977201754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1311
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0264c873f6faa66d0800000000000000
+      internalID: -2996389709853473248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1183
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb51e7962e669db50800000000000000
+      internalID: 6618434250016167358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_12
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1204
+        width: 28
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a11dcfbd2785e20800000000000000
+      internalID: 3339545412860189271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_13
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1163
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a488bb1850b75a870800000000000000
+      internalID: 8693489919290214474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1066
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0893121ca5c82220800000000000000
+      internalID: 2461434539186296847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_15
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1099
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d837ae67a545d1b0800000000000000
+      internalID: -5632519173538629418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_16
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1054
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a2f3c06c23b7890800000000000000
+      internalID: -7459312531618715093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_17
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1107
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73607b70752acae0800000000000000
+      internalID: -1528367958501334149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_18
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1020
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6899936e142555b0800000000000000
+      internalID: -5380354466885560212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_19
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1014
+        width: 55
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23fa645514abf170800000000000000
+      internalID: 8213338756957795118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_20
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1001
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3b3f66ab2f85b40800000000000000
+      internalID: 5429356233200219131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_21
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 931
+        width: 31
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a347db9705636b0800000000000000
+      internalID: -5316973826264516012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_22
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 912
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b4a1724dfe21b80800000000000000
+      internalID: -8425408258388636811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_23
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 916
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3469f46bb889d3ca0800000000000000
+      internalID: -6035500199780051389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_24
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 778
+        width: 163
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904caf47791978100800000000000000
+      internalID: 110216795582546953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_25
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 807
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4429c94de3e0d0d0800000000000000
+      internalID: -3399967110380051378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_26
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 822
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7f42c5f78f16470800000000000000
+      internalID: 8386257207031035891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_27
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 818
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2354fe4e908bf0bb0800000000000000
+      internalID: -4967549511331265230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_28
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 765
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55e285ce16b59930800000000000000
+      internalID: 4149422874970744154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_29
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 735
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751683f1322c4aa60800000000000000
+      internalID: 7684480320304341335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_30
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 763
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ed108fbc325f860800000000000000
+      internalID: 7562990508184821385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_31
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 691
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48d858f9d4cc6330800000000000000
+      internalID: 3705553033872595019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_32
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 705
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026338424ee243650800000000000000
+      internalID: 6211641343450756640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_33
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 658
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b2dc8239bf8e0b0800000000000000
+      internalID: -5699028718974063749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_34
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 654
+        width: 177
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8429a1cb571eb50800000000000000
+      internalID: 6620702377971435695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_35
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 633
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba2a740d693656d0800000000000000
+      internalID: -3002148961206523211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 580
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d8749934b5782a0800000000000000
+      internalID: -6735314371816747662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_37
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 514
+        width: 166
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efc5584633854df0800000000000000
+      internalID: -196606739555692572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_38
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 607
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd78087e026610a0800000000000000
+      internalID: -6911228763870560804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_39
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 584
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc9da9169a87f960800000000000000
+      internalID: 7635724070510501110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_40
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 562
+        width: 23
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764f33e6e126747b0800000000000000
+      internalID: -5240111758584843161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_41
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 374
+        width: 85
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e01b79a5e29fde20800000000000000
+      internalID: 3377579760639742183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_42
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 501
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2573f9680f4c300800000000000000
+      internalID: 271606338536559264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_43
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 512
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d037112538a51af80800000000000000
+      internalID: -8097091134971350259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_44
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 448
+        width: 173
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484efa374555f0e00800000000000000
+      internalID: 1013122262388171908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_45
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 456
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d09b8d86fe9a0380800000000000000
+      internalID: -9004209723200007981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_46
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 461
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d2628c6bb7a6d80800000000000000
+      internalID: -8256650941858173546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_47
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 429
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d45be21df95cc90800000000000000
+      internalID: -7150133112600179432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_48
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 397
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d695cba5f1e054d0800000000000000
+      internalID: -3147767694266886442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_49
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 334
+        width: 195
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd7e0ec9441f6600800000000000000
+      internalID: 463611593864674748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_50
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 344
+        width: 17
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35c2d7a2630c9400800000000000000
+      internalID: 332144194775860540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_51
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 258
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf4f4edfc4d7a060800000000000000
+      internalID: 6964769338004819885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guri_placeholder_52
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 249
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506b4fad7d8cfc230800000000000000
+      internalID: 3661365851492496901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Guri_placeholder_0: 4924155183224981988
+      Guri_placeholder_1: 2637067017790782714
+      Guri_placeholder_10: -2996389709853473248
+      Guri_placeholder_11: 6618434250016167358
+      Guri_placeholder_12: 3339545412860189271
+      Guri_placeholder_13: 8693489919290214474
+      Guri_placeholder_14: 2461434539186296847
+      Guri_placeholder_15: -5632519173538629418
+      Guri_placeholder_16: -7459312531618715093
+      Guri_placeholder_17: -1528367958501334149
+      Guri_placeholder_18: -5380354466885560212
+      Guri_placeholder_19: 8213338756957795118
+      Guri_placeholder_2: -3149854966853795607
+      Guri_placeholder_20: 5429356233200219131
+      Guri_placeholder_21: -5316973826264516012
+      Guri_placeholder_22: -8425408258388636811
+      Guri_placeholder_23: -6035500199780051389
+      Guri_placeholder_24: 110216795582546953
+      Guri_placeholder_25: -3399967110380051378
+      Guri_placeholder_26: 8386257207031035891
+      Guri_placeholder_27: -4967549511331265230
+      Guri_placeholder_28: 4149422874970744154
+      Guri_placeholder_29: 7684480320304341335
+      Guri_placeholder_3: -6199026884827914244
+      Guri_placeholder_30: 7562990508184821385
+      Guri_placeholder_31: 3705553033872595019
+      Guri_placeholder_32: 6211641343450756640
+      Guri_placeholder_33: -5699028718974063749
+      Guri_placeholder_34: 6620702377971435695
+      Guri_placeholder_35: -3002148961206523211
+      Guri_placeholder_36: -6735314371816747662
+      Guri_placeholder_37: -196606739555692572
+      Guri_placeholder_38: -6911228763870560804
+      Guri_placeholder_39: 7635724070510501110
+      Guri_placeholder_4: 3076631416987295888
+      Guri_placeholder_40: -5240111758584843161
+      Guri_placeholder_41: 3377579760639742183
+      Guri_placeholder_42: 271606338536559264
+      Guri_placeholder_43: -8097091134971350259
+      Guri_placeholder_44: 1013122262388171908
+      Guri_placeholder_45: -9004209723200007981
+      Guri_placeholder_46: -8256650941858173546
+      Guri_placeholder_47: -7150133112600179432
+      Guri_placeholder_48: -3147767694266886442
+      Guri_placeholder_49: 463611593864674748
+      Guri_placeholder_5: 7199750570539179515
+      Guri_placeholder_50: 332144194775860540
+      Guri_placeholder_51: 6964769338004819885
+      Guri_placeholder_52: 3661365851492496901
+      Guri_placeholder_6: 2686104820940003366
+      Guri_placeholder_7: 4616196989941490872
+      Guri_placeholder_8: -5502400543020977493
+      Guri_placeholder_9: 1695436275977201754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

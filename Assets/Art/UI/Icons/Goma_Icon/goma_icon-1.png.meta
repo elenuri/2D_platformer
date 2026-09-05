@@ -1,0 +1,1937 @@
+fileFormatVersion: 2
+guid: 2a3d464e61fea6a41b5321a9d9f79425
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1442428503615662539
+    second: goma_icon-1_0
+  - first:
+      213: -1561873829755592238
+    second: goma_icon-1_1
+  - first:
+      213: 7175990199523084513
+    second: goma_icon-1_2
+  - first:
+      213: -562991553744790757
+    second: goma_icon-1_3
+  - first:
+      213: -6249013160881484193
+    second: goma_icon-1_4
+  - first:
+      213: -3635527640265991722
+    second: goma_icon-1_5
+  - first:
+      213: 5952411677576470745
+    second: goma_icon-1_6
+  - first:
+      213: 8281569858786046179
+    second: goma_icon-1_7
+  - first:
+      213: 6874884758465367978
+    second: goma_icon-1_8
+  - first:
+      213: -5371827864256527313
+    second: goma_icon-1_9
+  - first:
+      213: 4250058621233899792
+    second: goma_icon-1_10
+  - first:
+      213: -6681359676373117149
+    second: goma_icon-1_11
+  - first:
+      213: 2823851471335278348
+    second: goma_icon-1_12
+  - first:
+      213: 1213898573893353021
+    second: goma_icon-1_13
+  - first:
+      213: -7937083623964777189
+    second: goma_icon-1_14
+  - first:
+      213: 6042356263833222545
+    second: goma_icon-1_15
+  - first:
+      213: 108544710499457820
+    second: goma_icon-1_16
+  - first:
+      213: -7034027648788424346
+    second: goma_icon-1_17
+  - first:
+      213: 8285235120304517594
+    second: goma_icon-1_18
+  - first:
+      213: 8319004478909779719
+    second: goma_icon-1_19
+  - first:
+      213: 4159110753640504041
+    second: goma_icon-1_20
+  - first:
+      213: -984552278275822841
+    second: goma_icon-1_21
+  - first:
+      213: -1229302908448639841
+    second: goma_icon-1_22
+  - first:
+      213: -6445194586801518277
+    second: goma_icon-1_23
+  - first:
+      213: 4123041390962506929
+    second: goma_icon-1_24
+  - first:
+      213: 5935794292724305782
+    second: goma_icon-1_25
+  - first:
+      213: 4134411841844781258
+    second: goma_icon-1_26
+  - first:
+      213: 7931219026019066548
+    second: goma_icon-1_27
+  - first:
+      213: 2053037369706553948
+    second: goma_icon-1_28
+  - first:
+      213: 8128089234483664404
+    second: goma_icon-1_29
+  - first:
+      213: -5875553618127941988
+    second: goma_icon-1_30
+  - first:
+      213: -3647360194697304633
+    second: goma_icon-1_31
+  - first:
+      213: -5325410562287774846
+    second: goma_icon-1_32
+  - first:
+      213: -992276237287513692
+    second: goma_icon-1_33
+  - first:
+      213: -4671981555855234929
+    second: goma_icon-1_34
+  - first:
+      213: 6028913328498926821
+    second: goma_icon-1_35
+  - first:
+      213: 6106384119952761674
+    second: goma_icon-1_36
+  - first:
+      213: -4554732852745415726
+    second: goma_icon-1_37
+  - first:
+      213: 9192075069436494669
+    second: goma_icon-1_38
+  - first:
+      213: 1848511072752172709
+    second: goma_icon-1_39
+  - first:
+      213: -9147229125414235431
+    second: goma_icon-1_40
+  - first:
+      213: 260151590165910289
+    second: goma_icon-1_41
+  - first:
+      213: -2836222660500588736
+    second: goma_icon-1_42
+  - first:
+      213: 3960938591318504940
+    second: goma_icon-1_43
+  - first:
+      213: 5179305716489877578
+    second: goma_icon-1_44
+  - first:
+      213: 4102315036455688410
+    second: goma_icon-1_45
+  - first:
+      213: 7539751899991106522
+    second: goma_icon-1_46
+  - first:
+      213: -8942785047785407334
+    second: goma_icon-1_47
+  - first:
+      213: -1933431299748929330
+    second: goma_icon-1_48
+  - first:
+      213: -7541354259344559379
+    second: goma_icon-1_49
+  - first:
+      213: 6932140979333372050
+    second: goma_icon-1_50
+  - first:
+      213: 3849618442447494912
+    second: goma_icon-1_51
+  - first:
+      213: -8073651099978760467
+    second: goma_icon-1_52
+  - first:
+      213: 7933926227616021828
+    second: goma_icon-1_53
+  - first:
+      213: 2085925875685343385
+    second: goma_icon-1_54
+  - first:
+      213: -2250013792864602351
+    second: goma_icon-1_55
+  - first:
+      213: 2241706147211618404
+    second: goma_icon-1_56
+  - first:
+      213: -3893024973715150603
+    second: goma_icon-1_57
+  - first:
+      213: 6973100879817516753
+    second: goma_icon-1_58
+  - first:
+      213: -7116309296139247429
+    second: goma_icon-1_59
+  - first:
+      213: -8697832371318756378
+    second: goma_icon-1_60
+  - first:
+      213: 6507983475197376695
+    second: goma_icon-1_61
+  - first:
+      213: 5217635425488113400
+    second: goma_icon-1_62
+  - first:
+      213: 4533624464442463442
+    second: goma_icon-1_63
+  - first:
+      213: -2356900952072501060
+    second: goma_icon-1_64
+  - first:
+      213: 1696808272646876579
+    second: goma_icon-1_65
+  - first:
+      213: 5850687440577762630
+    second: goma_icon-1_66
+  - first:
+      213: -6944097316655212150
+    second: goma_icon-1_67
+  - first:
+      213: 5158826572444461595
+    second: goma_icon-1_68
+  - first:
+      213: -8296285982333228500
+    second: goma_icon-1_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goma_icon-1_0
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1782
+        width: 213
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9e8ebe419840410800000000000000
+      internalID: 1442428503615662539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_1
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1571
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d16079e60c135ae0800000000000000
+      internalID: -1561873829755592238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_2
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1520
+        width: 202
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e80242011d369360800000000000000
+      internalID: 7175990199523084513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_3
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1522
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b1f7b2a2adf28f0800000000000000
+      internalID: -562991553744790757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_4
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1537
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e0bec83ab0749a0800000000000000
+      internalID: -6249013160881484193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_5
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1238
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9d4de7fd20c8dc0800000000000000
+      internalID: -3635527640265991722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_6
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1187
+        width: 24
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d025de22e63b9250800000000000000
+      internalID: 5952411677576470745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_7
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1102
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0368fa8eb0ee270800000000000000
+      internalID: 8281569858786046179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_8
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1038
+        width: 109
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf431c534f786f50800000000000000
+      internalID: 6874884758465367978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_9
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1009
+        width: 27
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24c174c40f6375b0800000000000000
+      internalID: -5371827864256527313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_10
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1002
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019ab395ccd3bfa30800000000000000
+      internalID: 4250058621233899792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_11
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 890
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327592116ca0743a0800000000000000
+      internalID: -6681359676373117149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_12
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 871
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c074767a3f5503720800000000000000
+      internalID: 2823851471335278348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 819
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e344a4252a8d010800000000000000
+      internalID: 1213898573893353021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_14
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 802
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1562091f70d9d190800000000000000
+      internalID: -7937083623964777189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_15
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 745
+        width: 138
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19db2281203cad350800000000000000
+      internalID: 6042356263833222545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_16
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 702
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b519fc6d0a18100800000000000000
+      internalID: 108544710499457820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_17
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 694
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66990bd0f1d126e90800000000000000
+      internalID: -7034027648788424346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_18
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 703
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad17752e1711bf270800000000000000
+      internalID: 8285235120304517594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_19
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 625
+        width: 30
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f0d426f7a037370800000000000000
+      internalID: 8319004478909779719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_20
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 673
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eadf3cc13128b930800000000000000
+      internalID: 4159110753640504041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_21
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 364
+        width: 175
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b61965bea2652f0800000000000000
+      internalID: -984552278275822841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_22
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 642
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9470949483a0fee0800000000000000
+      internalID: -1229302908448639841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_23
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 647
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39cc61eba11e86a0800000000000000
+      internalID: -6445194586801518277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_24
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 583
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc7d8edc4cf73930800000000000000
+      internalID: 4123041390962506929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_25
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 613
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f8f95c57d206250800000000000000
+      internalID: 5935794292724305782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_26
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 569
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0a3544aa1606930800000000000000
+      internalID: 4134411841844781258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_27
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 294
+        width: 102
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2afa9cea9511e60800000000000000
+      internalID: 7931219026019066548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_28
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 555
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5226fb3c9add7c10800000000000000
+      internalID: 2053037369706553948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_29
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 560
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41653142816ccc070800000000000000
+      internalID: 8128089234483664404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_30
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 552
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e09b44d17d57ea0800000000000000
+      internalID: -5875553618127941988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_31
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 395
+        width: 136
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5ea2b3a39f16dc0800000000000000
+      internalID: -3647360194697304633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_32
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 536
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28359bf0f475816b0800000000000000
+      internalID: -5325410562287774846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_33
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 445
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1aa6df40aba32f0800000000000000
+      internalID: -992276237287513692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_34
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 486
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8862163789c92fb0800000000000000
+      internalID: -4671981555855234929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_35
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 459
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4ebcecab00ba350800000000000000
+      internalID: 6028913328498926821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_36
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 428
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43eedb010c3eb450800000000000000
+      internalID: 6106384119952761674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_37
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 426
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3de493a965ac0c0800000000000000
+      internalID: -4554732852745415726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_38
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 379
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d438c7ee29fc09f70800000000000000
+      internalID: 9192075069436494669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_39
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 373
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aef4ced60b37a910800000000000000
+      internalID: 1848511072752172709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_40
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 383
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2d39413938e0180800000000000000
+      internalID: -9147229125414235431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_41
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 365
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113979f2e7e3c9300800000000000000
+      internalID: 260151590165910289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_42
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 343
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047f2f86486b3a8d0800000000000000
+      internalID: -2836222660500588736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_43
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 285
+        width: 22
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5fca0b9a418f630800000000000000
+      internalID: 3960938591318504940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_44
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 327
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a487786ab1790e740800000000000000
+      internalID: 5179305716489877578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_45
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 303
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad85fa86ac95ee830800000000000000
+      internalID: 4102315036455688410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_46
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 311
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3eb8dd76492a860800000000000000
+      internalID: 7539751899991106522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_47
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 252
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c73144168d4e380800000000000000
+      internalID: -8942785047785407334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_48
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 236
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0e7d40a721b25e0800000000000000
+      internalID: -1933431299748929330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_49
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 244
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de27366c14ab75790800000000000000
+      internalID: -7541354259344559379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_50
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 220
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298181e1e79e33060800000000000000
+      internalID: 6932140979333372050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_51
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 169
+        width: 119
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f10e6c3979c6530800000000000000
+      internalID: 3849618442447494912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_52
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 231
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deef251c911a4ff80800000000000000
+      internalID: -8073651099978760467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_53
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 200
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d35374ed7fa1e60800000000000000
+      internalID: 7933926227616021828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_54
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 195
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99045004882b2fc10800000000000000
+      internalID: 2085925875685343385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_55
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1177390606856c0e0800000000000000
+      internalID: -2250013792864602351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_56
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 196
+        width: 72
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468ab532dd32c1f10800000000000000
+      internalID: 2241706147211618404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_57
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 145
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8ebfb996239f9c0800000000000000
+      internalID: -3893024973715150603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_58
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 163
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6ac7c1e4e65c060800000000000000
+      internalID: 6973100879817516753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_59
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 167
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb06fc3266acd3d90800000000000000
+      internalID: -7116309296139247429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_60
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 121
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebe6a79a871b4780800000000000000
+      internalID: -8697832371318756378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_61
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 146
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8704b6d70015a50800000000000000
+      internalID: 6507983475197376695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_62
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 102
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe86b776c3c86840800000000000000
+      internalID: 5217635425488113400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_63
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 94
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d41d142e6baaee30800000000000000
+      internalID: 4533624464442463442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_64
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 113
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb840fc421b9a4fd0800000000000000
+      internalID: -2356900952072501060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_65
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 72
+        width: 141
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adaf0742264c8710800000000000000
+      internalID: 1696808272646876579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_66
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 98
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6451a7b9a31d13150800000000000000
+      internalID: 5850687440577762630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_67
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 114
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89d50b284c91af90800000000000000
+      internalID: -6944097316655212150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_68
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 78
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ae56c5f65d79740800000000000000
+      internalID: 5158826572444461595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goma_icon-1_69
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 75
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2aa9fbcadbaddc80800000000000000
+      internalID: -8296285982333228500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      goma_icon-1_0: 1442428503615662539
+      goma_icon-1_1: -1561873829755592238
+      goma_icon-1_10: 4250058621233899792
+      goma_icon-1_11: -6681359676373117149
+      goma_icon-1_12: 2823851471335278348
+      goma_icon-1_13: 1213898573893353021
+      goma_icon-1_14: -7937083623964777189
+      goma_icon-1_15: 6042356263833222545
+      goma_icon-1_16: 108544710499457820
+      goma_icon-1_17: -7034027648788424346
+      goma_icon-1_18: 8285235120304517594
+      goma_icon-1_19: 8319004478909779719
+      goma_icon-1_2: 7175990199523084513
+      goma_icon-1_20: 4159110753640504041
+      goma_icon-1_21: -984552278275822841
+      goma_icon-1_22: -1229302908448639841
+      goma_icon-1_23: -6445194586801518277
+      goma_icon-1_24: 4123041390962506929
+      goma_icon-1_25: 5935794292724305782
+      goma_icon-1_26: 4134411841844781258
+      goma_icon-1_27: 7931219026019066548
+      goma_icon-1_28: 2053037369706553948
+      goma_icon-1_29: 8128089234483664404
+      goma_icon-1_3: -562991553744790757
+      goma_icon-1_30: -5875553618127941988
+      goma_icon-1_31: -3647360194697304633
+      goma_icon-1_32: -5325410562287774846
+      goma_icon-1_33: -992276237287513692
+      goma_icon-1_34: -4671981555855234929
+      goma_icon-1_35: 6028913328498926821
+      goma_icon-1_36: 6106384119952761674
+      goma_icon-1_37: -4554732852745415726
+      goma_icon-1_38: 9192075069436494669
+      goma_icon-1_39: 1848511072752172709
+      goma_icon-1_4: -6249013160881484193
+      goma_icon-1_40: -9147229125414235431
+      goma_icon-1_41: 260151590165910289
+      goma_icon-1_42: -2836222660500588736
+      goma_icon-1_43: 3960938591318504940
+      goma_icon-1_44: 5179305716489877578
+      goma_icon-1_45: 4102315036455688410
+      goma_icon-1_46: 7539751899991106522
+      goma_icon-1_47: -8942785047785407334
+      goma_icon-1_48: -1933431299748929330
+      goma_icon-1_49: -7541354259344559379
+      goma_icon-1_5: -3635527640265991722
+      goma_icon-1_50: 6932140979333372050
+      goma_icon-1_51: 3849618442447494912
+      goma_icon-1_52: -8073651099978760467
+      goma_icon-1_53: 7933926227616021828
+      goma_icon-1_54: 2085925875685343385
+      goma_icon-1_55: -2250013792864602351
+      goma_icon-1_56: 2241706147211618404
+      goma_icon-1_57: -3893024973715150603
+      goma_icon-1_58: 6973100879817516753
+      goma_icon-1_59: -7116309296139247429
+      goma_icon-1_6: 5952411677576470745
+      goma_icon-1_60: -8697832371318756378
+      goma_icon-1_61: 6507983475197376695
+      goma_icon-1_62: 5217635425488113400
+      goma_icon-1_63: 4533624464442463442
+      goma_icon-1_64: -2356900952072501060
+      goma_icon-1_65: 1696808272646876579
+      goma_icon-1_66: 5850687440577762630
+      goma_icon-1_67: -6944097316655212150
+      goma_icon-1_68: 5158826572444461595
+      goma_icon-1_69: -8296285982333228500
+      goma_icon-1_7: 8281569858786046179
+      goma_icon-1_8: 6874884758465367978
+      goma_icon-1_9: -5371827864256527313
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

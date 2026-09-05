@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 4fdb9484bb5dcd14d8477ffa5a94cfb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5515614563530953877
+    second: rangi_path1_0
+  - first:
+      213: -8081626153191232079
+    second: rangi_path1_1
+  - first:
+      213: 2677770474308256802
+    second: rangi_path1_2
+  - first:
+      213: 6818986775455012220
+    second: rangi_path1_3
+  - first:
+      213: 5289065580062709994
+    second: rangi_path1_4
+  - first:
+      213: 3367630797460007757
+    second: rangi_path1_5
+  - first:
+      213: 3971606989883338792
+    second: rangi_path1_6
+  - first:
+      213: 8434068767028004002
+    second: rangi_path1_7
+  - first:
+      213: 8584797457469697389
+    second: rangi_path1_8
+  - first:
+      213: -477417105752275765
+    second: rangi_path1_9
+  - first:
+      213: -6013650838387565501
+    second: rangi_path1_10
+  - first:
+      213: 752831278694721512
+    second: rangi_path1_11
+  - first:
+      213: 4020060262900785576
+    second: rangi_path1_12
+  - first:
+      213: 760503078369585882
+    second: rangi_path1_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 225
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rangi_path1_0
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1556
+        width: 96
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594db39f8366b8c40800000000000000
+      internalID: 5515614563530953877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangi_path1_1
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1633
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bda78bf4db48df80800000000000000
+      internalID: -8081626153191232079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangi_path1_2
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1633
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2244c271f0a592520800000000000000
+      internalID: 2677770474308256802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangi_path1_3
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1487
+        width: 93
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75151ff758e1ae50800000000000000
+      internalID: 6818986775455012220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangi_path1_4
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1544
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae812655f19866940800000000000000
+      internalID: 5289065580062709994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangi_path1_5
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1532
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4be4492e5a3cbe20800000000000000
+      internalID: 3367630797460007757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangi_path1_6
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1507
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820747bc38bfd1730800000000000000
+      internalID: 3971606989883338792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangi_path1_7
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1365
+        width: 151
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4cbe5abd4db0570800000000000000
+      internalID: 8434068767028004002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangi_path1_8
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1456
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d6829adc3532770800000000000000
+      internalID: 8584797457469697389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangi_path1_9
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1444
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4c0f9fbafdf59f0800000000000000
+      internalID: -477417105752275765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangi_path1_10
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1446
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cdda69c683b8ca0800000000000000
+      internalID: -6013650838387565501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangi_path1_11
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1434
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7e66e2f08927a00800000000000000
+      internalID: 752831278694721512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangi_path1_12
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1422
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a16dd9828f1ac730800000000000000
+      internalID: 4020060262900785576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangi_path1_13
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1426
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada6fcc3589dd8a00800000000000000
+      internalID: 760503078369585882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rangi_path1_0: 5515614563530953877
+      rangi_path1_1: -8081626153191232079
+      rangi_path1_10: -6013650838387565501
+      rangi_path1_11: 752831278694721512
+      rangi_path1_12: 4020060262900785576
+      rangi_path1_13: 760503078369585882
+      rangi_path1_2: 2677770474308256802
+      rangi_path1_3: 6818986775455012220
+      rangi_path1_4: 5289065580062709994
+      rangi_path1_5: 3367630797460007757
+      rangi_path1_6: 3971606989883338792
+      rangi_path1_7: 8434068767028004002
+      rangi_path1_8: 8584797457469697389
+      rangi_path1_9: -477417105752275765
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 734a8ce48e057684bba5748d95513026
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5441980524422197007
+    second: guri_icon-5_0
+  - first:
+      213: -7757138978943376176
+    second: guri_icon-5_1
+  - first:
+      213: -3209006803284509233
+    second: guri_icon-5_2
+  - first:
+      213: 7747662771609450323
+    second: guri_icon-5_3
+  - first:
+      213: -2950423368355444008
+    second: guri_icon-5_4
+  - first:
+      213: -6203106677624150880
+    second: guri_icon-5_5
+  - first:
+      213: -8636004613615529551
+    second: guri_icon-5_6
+  - first:
+      213: 5418844628258470730
+    second: guri_icon-5_7
+  - first:
+      213: -7237432302421329968
+    second: guri_icon-5_8
+  - first:
+      213: -3939285871390247696
+    second: guri_icon-5_9
+  - first:
+      213: -1911484168838659118
+    second: guri_icon-5_10
+  - first:
+      213: 5521822732277581584
+    second: guri_icon-5_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guri_icon-5_0
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1358
+        width: 239
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0983fbb833a74b0800000000000000
+      internalID: -5441980524422197007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_icon-5_1
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1512
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d46ebe923b195490800000000000000
+      internalID: -7757138978943376176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_icon-5_2
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1386
+        width: 345
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd3a6080515773d0800000000000000
+      internalID: -3209006803284509233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_icon-5_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1126
+        width: 97
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357bc4ded3a358b60800000000000000
+      internalID: 7747662771609450323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_icon-5_4
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1390
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da8928149dfd07d0800000000000000
+      internalID: -2950423368355444008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_icon-5_5
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 397
+        width: 447
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4eb5897532ae9a0800000000000000
+      internalID: -6203106677624150880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_icon-5_6
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1283
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1dfc63f8fb62880800000000000000
+      internalID: -8636004613615529551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_icon-5_7
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 891
+        width: 535
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b3168aa7a933b40800000000000000
+      internalID: 5418844628258470730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_icon-5_8
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1233
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d73d30aaa97f8b90800000000000000
+      internalID: -7237432302421329968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_icon-5_9
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1029
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4b1170f58d459c0800000000000000
+      internalID: -3939285871390247696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_icon-5_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 514
+        width: 581
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3c692a64b0975e0800000000000000
+      internalID: -1911484168838659118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guri_icon-5_11
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 241
+        width: 498
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0170516e48471ac40800000000000000
+      internalID: 5521822732277581584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      guri_icon-5_0: -5441980524422197007
+      guri_icon-5_1: -7757138978943376176
+      guri_icon-5_10: -1911484168838659118
+      guri_icon-5_11: 5521822732277581584
+      guri_icon-5_2: -3209006803284509233
+      guri_icon-5_3: 7747662771609450323
+      guri_icon-5_4: -2950423368355444008
+      guri_icon-5_5: -6203106677624150880
+      guri_icon-5_6: -8636004613615529551
+      guri_icon-5_7: 5418844628258470730
+      guri_icon-5_8: -7237432302421329968
+      guri_icon-5_9: -3939285871390247696
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -9,10 +9,25 @@ EditorBuildSettings:
     path: Assets/Scenes/Goma_Level.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
+    path: Assets/Scenes/Goma_Cutscene.unity
+    guid: 3aba1fa1324ef1c4d941393cfdd7ae9c
+  - enabled: 1
     path: Assets/Scenes/BookScene.unity
     guid: b37d11395cee06943b5eb439d4d58ac7
   - enabled: 1
     path: Assets/Scenes/IntroScene.unity
     guid: 2ec9db2a02287914f85c44389ecdf96a
+  - enabled: 1
+    path: Assets/Scenes/Guri_Level.unity
+    guid: 0675b44a642023843baea02319417011
+  - enabled: 1
+    path: Assets/Scenes/Rangi_Level.unity
+    guid: 3e3b47d811af6fe429792d6b8e6d6a08
+  - enabled: 1
+    path: Assets/Scenes/Kiri_Level.unity
+    guid: 864c2271c01a922469c8eb0dca9703c1
+  - enabled: 1
+    path: Assets/Scenes/Yangi_Level.unity
+    guid: 7ae5df3334cdefd4e90570ceb8e8e36c
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: bafd0b6be3d18d14aa9265778ac7134a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7312315884621428854
+    second: kiri_placeholder_0
+  - first:
+      213: -345732826716683848
+    second: kiri_placeholder_1
+  - first:
+      213: 1126147348362990858
+    second: kiri_placeholder_2
+  - first:
+      213: 1038370419720790272
+    second: kiri_placeholder_3
+  - first:
+      213: -8816593844944741443
+    second: kiri_placeholder_4
+  - first:
+      213: -7425124691060377377
+    second: kiri_placeholder_5
+  - first:
+      213: 4517254233902922612
+    second: kiri_placeholder_6
+  - first:
+      213: -4657886031160595567
+    second: kiri_placeholder_7
+  - first:
+      213: -266268865339662673
+    second: kiri_placeholder_8
+  - first:
+      213: 3513664157626347221
+    second: kiri_placeholder_9
+  - first:
+      213: 3229997347744904946
+    second: kiri_placeholder_10
+  - first:
+      213: 6379788313132570323
+    second: kiri_placeholder_11
+  - first:
+      213: -7019563462120675547
+    second: kiri_placeholder_12
+  - first:
+      213: 3118499399800861234
+    second: kiri_placeholder_13
+  - first:
+      213: 3740744707204310762
+    second: kiri_placeholder_14
+  - first:
+      213: -3880600355081481425
+    second: kiri_placeholder_15
+  - first:
+      213: -8354375298770220175
+    second: kiri_placeholder_16
+  - first:
+      213: -679657415719283152
+    second: kiri_placeholder_17
+  - first:
+      213: 6965671871904710705
+    second: kiri_placeholder_18
+  - first:
+      213: -8062705397469996676
+    second: kiri_placeholder_19
+  - first:
+      213: 8256521424753642100
+    second: kiri_placeholder_20
+  - first:
+      213: 5814277593517525956
+    second: kiri_placeholder_21
+  - first:
+      213: 1399943501457891503
+    second: kiri_placeholder_22
+  - first:
+      213: -5865751155617582665
+    second: kiri_placeholder_23
+  - first:
+      213: 3434823393703227365
+    second: kiri_placeholder_24
+  - first:
+      213: 3338712364616217409
+    second: kiri_placeholder_25
+  - first:
+      213: -7537024857160922555
+    second: kiri_placeholder_26
+  - first:
+      213: 6629102825464105148
+    second: kiri_placeholder_27
+  - first:
+      213: -2006258917533136720
+    second: kiri_placeholder_28
+  - first:
+      213: -8827221446197249694
+    second: kiri_placeholder_29
+  - first:
+      213: -3881269267761598214
+    second: kiri_placeholder_30
+  - first:
+      213: 8980279182189656767
+    second: kiri_placeholder_31
+  - first:
+      213: -5044954399696860903
+    second: kiri_placeholder_32
+  - first:
+      213: 7220831551342904952
+    second: kiri_placeholder_33
+  - first:
+      213: -4904020062122412541
+    second: kiri_placeholder_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kiri_placeholder_0
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1622
+        width: 88
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6787e440e809a7560800000000000000
+      internalID: 7312315884621428854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_1
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1582
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b14c5c63d5b33bf0800000000000000
+      internalID: -345732826716683848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1558
+        width: 117
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a059ce7fb01e0af00800000000000000
+      internalID: 1126147348362990858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_3
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1523
+        width: 86
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0012bbc2568096e00800000000000000
+      internalID: 1038370419720790272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_4
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1481
+        width: 77
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb5c2f3c9a25a580800000000000000
+      internalID: -8816593844944741443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1461
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd83d58fe68a4f890800000000000000
+      internalID: -7425124691060377377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_6
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1410
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bb9e3dac280be30800000000000000
+      internalID: 4517254233902922612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_7
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1417
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b2b6c455ddb5fb0800000000000000
+      internalID: -4657886031160595567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_8
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1482
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faedea2b0e50e4cf0800000000000000
+      internalID: -266268865339662673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_9
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1442
+        width: 94
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de27576fea03c030800000000000000
+      internalID: 3513664157626347221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_10
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1423
+        width: 23
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6f9c9797143dc20800000000000000
+      internalID: 3229997347744904946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1249
+        width: 38
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d694725baf898850800000000000000
+      internalID: 6379788313132570323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_12
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1242
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5276cf1f830859e90800000000000000
+      internalID: -7019563462120675547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1077
+        width: 45
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232366d7ea2274b20800000000000000
+      internalID: 3118499399800861234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_14
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1048
+        width: 19
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6e55ced7bc9e330800000000000000
+      internalID: 3740744707204310762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 950
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f231d109986552ac0800000000000000
+      internalID: -3880600355081481425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_16
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 867
+        width: 22
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bc08cddeb4f0c80800000000000000
+      internalID: -8354375298770220175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 747
+        width: 24
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036971f6e2f5196f0800000000000000
+      internalID: -679657415719283152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_18
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 711
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1308fca69a90ba060800000000000000
+      internalID: 6965671871904710705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_19
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 718
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c791d27b8248b1090800000000000000
+      internalID: -8062705397469996676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_20
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 595
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ac7daad7e059270800000000000000
+      internalID: 8256521424753642100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_21
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 656
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb002b7aa670b050800000000000000
+      internalID: 5814277593517525956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_22
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 544
+        width: 93
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0a30682399d6310800000000000000
+      internalID: 1399943501457891503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_23
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 566
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1b39ce66aa89ea0800000000000000
+      internalID: -5865751155617582665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_24
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 521
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efe1e79da1faaf20800000000000000
+      internalID: 3434823393703227365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_25
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 486
+        width: 36
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1437724d43d755e20800000000000000
+      internalID: 3338712364616217409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_26
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 384
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a42a543db176790800000000000000
+      internalID: -7537024857160922555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_27
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 351
+        width: 37
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb88353b5ed4ffb50800000000000000
+      internalID: 6629102825464105148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_28
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 217
+        width: 24
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b84af4e4265824e0800000000000000
+      internalID: -2006258917533136720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_29
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 206
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269f3b10dd86f7580800000000000000
+      internalID: -8827221446197249694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_30
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 95
+        width: 86
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0fd613a26f22ac0800000000000000
+      internalID: -3881269267761598214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_31
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 51
+        width: 100
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaff3e265c50ac70800000000000000
+      internalID: 8980279182189656767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_32
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 99
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919460ae3b8bcf9b0800000000000000
+      internalID: -5044954399696860903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_33
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 62
+        width: 85
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8760ab0d90c853460800000000000000
+      internalID: 7220831551342904952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kiri_placeholder_34
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 52
+        width: 108
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306fdc17cbb61fbb0800000000000000
+      internalID: -4904020062122412541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kiri_placeholder_0: 7312315884621428854
+      kiri_placeholder_1: -345732826716683848
+      kiri_placeholder_10: 3229997347744904946
+      kiri_placeholder_11: 6379788313132570323
+      kiri_placeholder_12: -7019563462120675547
+      kiri_placeholder_13: 3118499399800861234
+      kiri_placeholder_14: 3740744707204310762
+      kiri_placeholder_15: -3880600355081481425
+      kiri_placeholder_16: -8354375298770220175
+      kiri_placeholder_17: -679657415719283152
+      kiri_placeholder_18: 6965671871904710705
+      kiri_placeholder_19: -8062705397469996676
+      kiri_placeholder_2: 1126147348362990858
+      kiri_placeholder_20: 8256521424753642100
+      kiri_placeholder_21: 5814277593517525956
+      kiri_placeholder_22: 1399943501457891503
+      kiri_placeholder_23: -5865751155617582665
+      kiri_placeholder_24: 3434823393703227365
+      kiri_placeholder_25: 3338712364616217409
+      kiri_placeholder_26: -7537024857160922555
+      kiri_placeholder_27: 6629102825464105148
+      kiri_placeholder_28: -2006258917533136720
+      kiri_placeholder_29: -8827221446197249694
+      kiri_placeholder_3: 1038370419720790272
+      kiri_placeholder_30: -3881269267761598214
+      kiri_placeholder_31: 8980279182189656767
+      kiri_placeholder_32: -5044954399696860903
+      kiri_placeholder_33: 7220831551342904952
+      kiri_placeholder_34: -4904020062122412541
+      kiri_placeholder_4: -8816593844944741443
+      kiri_placeholder_5: -7425124691060377377
+      kiri_placeholder_6: 4517254233902922612
+      kiri_placeholder_7: -4657886031160595567
+      kiri_placeholder_8: -266268865339662673
+      kiri_placeholder_9: 3513664157626347221
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
