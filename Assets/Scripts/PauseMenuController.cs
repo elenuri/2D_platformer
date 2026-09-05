@@ -12,24 +12,34 @@ public class PauseMenuController : MonoBehaviour
     public GameObject instructionsButton;
     public GameObject levelMapButton;
 
+    // Remembers the level the player came from
+    public static string currentLevelScene = "";
+
+    private void Start()
+    {
+        // If this controller is in a level scene,
+        // automatically remember that scene.
+        string sceneName = SceneManager.GetActiveScene().name;
+
+        if (sceneName != "BookScene")
+        {
+            currentLevelScene = sceneName;
+        }
+    }
+
     public void OpenPauseMenu()
     {
-        // Hide buttons before animation starts
         HideButtons();
 
-        // Show menu
         pauseMenu.SetActive(true);
 
-        // Pause game
         Time.timeScale = 0f;
     }
 
     public void ResumeGame()
     {
-        // Hide menu
         pauseMenu.SetActive(false);
 
-        // Resume game
         Time.timeScale = 1f;
     }
 
@@ -50,21 +60,44 @@ public class PauseMenuController : MonoBehaviour
         levelMapButton.SetActive(false);
     }
 
+    // ---------- NAVIGATION ----------
+
     public void GoHome()
     {
         Time.timeScale = 1f;
+
         SceneManager.LoadScene("BookScene");
     }
 
     public void GoToInstructions()
     {
         Time.timeScale = 1f;
+
+        BookManager.requestedPage = 0;
+
         SceneManager.LoadScene("BookScene");
     }
 
     public void GoToLevelMap()
     {
         Time.timeScale = 1f;
+
+        BookManager.requestedPage = 1;
+
         SceneManager.LoadScene("BookScene");
+    }
+
+    public void BackToCurrentLevel()
+    {
+        Time.timeScale = 1f;
+
+        if (!string.IsNullOrEmpty(currentLevelScene))
+        {
+            SceneManager.LoadScene(currentLevelScene);
+        }
+        else
+        {
+            Debug.LogWarning("No current level has been saved.");
+        }
     }
 }

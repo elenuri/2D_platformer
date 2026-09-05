@@ -19,6 +19,10 @@ public class BookManager : MonoBehaviour
     public MapProgression mapProgression;
     public GameObject levelMap;
 
+    // Used when another scene wants to tell the book
+    // which page to open.
+    public static int requestedPage = -1;
+
     private int currentPage;
     private bool isFlipping = false;
 
@@ -26,13 +30,26 @@ public class BookManager : MonoBehaviour
     {
         turningPage.enabled = false;
 
-        if (GameProgress.mapState == 0)
+        // If another scene specifically requested a page,
+        // use that page.
+        if (requestedPage >= 0)
         {
-            currentPage = 0; // Instructions
+            currentPage = requestedPage;
+
+            // Reset so the next normal visit behaves normally.
+            requestedPage = -1;
         }
         else
         {
-            currentPage = 1; // Level Map
+            // Normal game flow
+            if (GameProgress.mapState == 0)
+            {
+                currentPage = 0; // Instructions
+            }
+            else
+            {
+                currentPage = 1; // Level Map
+            }
         }
 
         ShowStaticPage(currentPage);
@@ -42,7 +59,7 @@ public class BookManager : MonoBehaviour
         if (levelMap != null)
             levelMap.SetActive(currentPage == 1);
 
-        // Temporary: if we start directly on the map (for testing)
+        // Start map progression only when actually opening the map
         if (currentPage == 1 && mapProgression != null)
         {
             mapProgression.OnMapShown();

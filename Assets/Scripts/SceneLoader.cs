@@ -30,38 +30,36 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene("Yangi_Level");
     }
 
+
     // ---------- FINISH LEVELS ----------
 
     public void FinishGoma()
     {
         GameProgress.mapState = 1;
-        SceneManager.LoadScene("BookScene");
+        SceneManager.LoadScene("Goma_Cutscene");
     }
 
     public void FinishGuri()
     {
         GameProgress.mapState = 2;
-        SceneManager.LoadScene("BookScene");
+        SceneManager.LoadScene("Guri_Cutscene");
     }
 
     public void FinishRangi()
     {
         GameProgress.mapState = 3;
-        SceneManager.LoadScene("BookScene");
+        SceneManager.LoadScene("Rangi_Cutscene");
     }
 
     public void FinishKiri()
     {
         GameProgress.mapState = 4;
-        SceneManager.LoadScene("BookScene");
+        SceneManager.LoadScene("Kiri_Cutscene");
     }
 
     public void FinishYangi()
     {
         GameProgress.mapState = 5;
-
-        // For now return to the book.
-        // Later we'll replace this with the ending cutscene.
-        SceneManager.LoadScene("BookScene");
+        SceneManager.LoadScene("Yangi_Cutscene");
     }
 }
