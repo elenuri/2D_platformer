@@ -19,9 +19,10 @@ public class BookManager : MonoBehaviour
     public MapProgression mapProgression;
     public GameObject levelMap;
 
-    // Used when another scene wants to tell the book
-    // which page to open.
     public static int requestedPage = -1;
+
+    // Kept for compatibility with PauseMenuController
+    public static bool openedMapFromPause = false;
 
     private int currentPage;
     private bool isFlipping = false;
@@ -30,40 +31,44 @@ public class BookManager : MonoBehaviour
     {
         turningPage.enabled = false;
 
-        // If another scene specifically requested a page,
-        // use that page.
+        bool openedSpecificPage = requestedPage >= 0;
+
         if (requestedPage >= 0)
         {
             currentPage = requestedPage;
-
-            // Reset so the next normal visit behaves normally.
             requestedPage = -1;
         }
         else
         {
-            // Normal game flow
             if (GameProgress.mapState == 0)
             {
-                currentPage = 0; // Instructions
+                currentPage = 0;
             }
             else
             {
-                currentPage = 1; // Level Map
+                currentPage = 1;
             }
         }
 
         ShowStaticPage(currentPage);
         ShowHotspots(currentPage);
 
-        // Show Level Map only when on the map page
         if (levelMap != null)
             levelMap.SetActive(currentPage == 1);
 
-        // Start map progression only when actually opening the map
         if (currentPage == 1 && mapProgression != null)
         {
-            mapProgression.OnMapShown();
+            if (openedSpecificPage || openedMapFromPause)
+            {
+                mapProgression.ShowCurrentMapState();
+            }
+            else
+            {
+                mapProgression.OnMapShown();
+            }
         }
+
+        openedMapFromPause = false;
     }
 
     void ShowStaticPage(int pageIndex)
@@ -110,7 +115,6 @@ public class BookManager : MonoBehaviour
         pageAnimator.SetTrigger("Flip");
     }
 
-    // Animation Event
     public void FinishFlip()
     {
         turningPage.enabled = false;
@@ -119,11 +123,9 @@ public class BookManager : MonoBehaviour
 
         ShowHotspots(currentPage);
 
-        // Only show the Level Map on the map page
         if (levelMap != null)
             levelMap.SetActive(currentPage == 1);
 
-        // If we arrived on the Level Map, start its progression
         if (currentPage == 1 && mapProgression != null)
         {
             mapProgression.OnMapShown();

@@ -31,63 +31,121 @@ public class MapProgression : MonoBehaviour
 
     public void OnMapShown()
     {
-        // Hide all finished paths by default
-        guriPathFinished.SetActive(false);
-        rangiPathFinished.SetActive(false);
-        kiriPathFinished.SetActive(false);
-        yangiPathFinished.SetActive(false);
+        ShowCurrentMapState();
 
         switch (GameProgress.mapState)
         {
-            // ----------------------------------
-            // First visit
-            // ----------------------------------
             case 0:
-                gomaAnimator.SetTrigger("Play");
+                if (gomaAnimator != null)
+                {
+                    gomaAnimator.gameObject.SetActive(true);
+                    gomaAnimator.SetTrigger("Play");
+                }
                 break;
 
-            // ----------------------------------
-            // Goma completed
-            // ----------------------------------
             case 1:
-                gomaHotspot.SetActive(true);
-
-                pathToGuriAnimator.gameObject.SetActive(true);
-                pathToGuriAnimator.SetTrigger("Play");
+                if (pathToGuriAnimator != null)
+                {
+                    pathToGuriAnimator.gameObject.SetActive(true);
+                    pathToGuriAnimator.SetTrigger("Play");
+                }
                 break;
 
-            // ----------------------------------
-            // Guri completed
-            // ----------------------------------
             case 2:
+                if (pathToRangiAnimator != null)
+                {
+                    pathToRangiAnimator.gameObject.SetActive(true);
+                    pathToRangiAnimator.SetTrigger("Play");
+                }
+                break;
+
+            case 3:
+                if (pathToKiriAnimator != null)
+                {
+                    pathToKiriAnimator.gameObject.SetActive(true);
+                    pathToKiriAnimator.SetTrigger("Play");
+                }
+                break;
+
+            case 4:
+                if (pathToYangiAnimator != null)
+                {
+                    pathToYangiAnimator.gameObject.SetActive(true);
+                    pathToYangiAnimator.SetTrigger("Play");
+                }
+                break;
+
+            case 5:
+                break;
+        }
+    }
+
+    public void ShowCurrentMapState()
+    {
+        // --------------------------------------------------
+        // HIDE EVERYTHING FIRST
+        // --------------------------------------------------
+
+        if (guriPathFinished != null)
+            guriPathFinished.SetActive(false);
+
+        if (rangiPathFinished != null)
+            rangiPathFinished.SetActive(false);
+
+        if (kiriPathFinished != null)
+            kiriPathFinished.SetActive(false);
+
+        if (yangiPathFinished != null)
+            yangiPathFinished.SetActive(false);
+
+        if (gomaHotspot != null)
+            gomaHotspot.SetActive(false);
+
+        if (guriHotspot != null)
+            guriHotspot.SetActive(false);
+
+        if (rangiHotspot != null)
+            rangiHotspot.SetActive(false);
+
+        if (kiriHotspot != null)
+            kiriHotspot.SetActive(false);
+
+        if (yangiHotspot != null)
+            yangiHotspot.SetActive(false);
+
+        // --------------------------------------------------
+        // NORMAL PROGRESSION
+        // --------------------------------------------------
+
+        switch (GameProgress.mapState)
+        {
+            case 0:
+                break;
+
+            case 1:
+                // Goma completed
+                gomaHotspot.SetActive(true);
+                break;
+
+            case 2:
+                // Guri completed
                 gomaHotspot.SetActive(true);
                 guriHotspot.SetActive(true);
-
                 guriPathFinished.SetActive(true);
-
-                pathToRangiAnimator.gameObject.SetActive(true);
-                pathToRangiAnimator.SetTrigger("Play");
                 break;
 
-            // ----------------------------------
-            // Rangi completed
-            // ----------------------------------
             case 3:
+                // Rangi completed
                 gomaHotspot.SetActive(true);
                 guriHotspot.SetActive(true);
                 rangiHotspot.SetActive(true);
 
                 guriPathFinished.SetActive(true);
                 rangiPathFinished.SetActive(true);
-
-                pathToKiriAnimator.gameObject.SetActive(true);
-                pathToKiriAnimator.SetTrigger("Play");
                 break;
 
-            // ----------------------------------
-            // Kiri completed
-            // ----------------------------------
             case 4:
+                // Kiri completed
                 gomaHotspot.SetActive(true);
                 guriHotspot.SetActive(true);
                 rangiHotspot.SetActive(true);
@@ -96,15 +154,10 @@ public class MapProgression : MonoBehaviour
                 guriPathFinished.SetActive(true);
                 rangiPathFinished.SetActive(true);
                 kiriPathFinished.SetActive(true);
-
-                pathToYangiAnimator.gameObject.SetActive(true);
-                pathToYangiAnimator.SetTrigger("Play");
                 break;
 
-            // ----------------------------------
-            // Game finished
-            // ----------------------------------
             case 5:
+                // Game finished
                 gomaHotspot.SetActive(true);
                 guriHotspot.SetActive(true);
                 rangiHotspot.SetActive(true);
@@ -117,25 +170,77 @@ public class MapProgression : MonoBehaviour
                 yangiPathFinished.SetActive(true);
                 break;
         }
+
+        // --------------------------------------------------
+        // PAUSE MENU OVERRIDE
+        // --------------------------------------------------
+        // mapState tells us what has been COMPLETED.
+        // currentLevelScene tells us what level we're CURRENTLY IN.
+
+        string currentLevel = PauseMenuController.currentLevelScene;
+
+        if (currentLevel == "Guri_Level")
+        {
+            gomaHotspot.SetActive(true);
+            guriHotspot.SetActive(true);
+            guriPathFinished.SetActive(true);
+        }
+        else if (currentLevel == "Rangi_Level")
+        {
+            gomaHotspot.SetActive(true);
+            guriHotspot.SetActive(true);
+            rangiHotspot.SetActive(true);
+
+            guriPathFinished.SetActive(true);
+            rangiPathFinished.SetActive(true);
+        }
+        else if (currentLevel == "Kiri_Level")
+        {
+            gomaHotspot.SetActive(true);
+            guriHotspot.SetActive(true);
+            rangiHotspot.SetActive(true);
+            kiriHotspot.SetActive(true);
+
+            guriPathFinished.SetActive(true);
+            rangiPathFinished.SetActive(true);
+            kiriPathFinished.SetActive(true);
+        }
+        else if (currentLevel == "Yangi_Level")
+        {
+            gomaHotspot.SetActive(true);
+            guriHotspot.SetActive(true);
+            rangiHotspot.SetActive(true);
+            kiriHotspot.SetActive(true);
+            yangiHotspot.SetActive(true);
+
+            guriPathFinished.SetActive(true);
+            rangiPathFinished.SetActive(true);
+            kiriPathFinished.SetActive(true);
+            yangiPathFinished.SetActive(true);
+        }
     }
 
     public void PlayGuriUnlock()
     {
-        guriAnimator.SetTrigger("Play");
+        if (guriAnimator != null)
+            guriAnimator.SetTrigger("Play");
     }
 
     public void PlayRangiUnlock()
     {
-        rangiAnimator.SetTrigger("Play");
+        if (rangiAnimator != null)
+            rangiAnimator.SetTrigger("Play");
     }
 
     public void PlayKiriUnlock()
     {
-        kiriAnimator.SetTrigger("Play");
+        if (kiriAnimator != null)
+            kiriAnimator.SetTrigger("Play");
     }
 
     public void PlayYangiUnlock()
     {
-        yangiAnimator.SetTrigger("Play");
+        if (yangiAnimator != null)
+            yangiAnimator.SetTrigger("Play");
     }
 }

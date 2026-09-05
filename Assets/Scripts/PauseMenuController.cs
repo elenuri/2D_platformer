@@ -12,13 +12,10 @@ public class PauseMenuController : MonoBehaviour
     public GameObject instructionsButton;
     public GameObject levelMapButton;
 
-    // Remembers the level the player came from
     public static string currentLevelScene = "";
 
     private void Start()
     {
-        // If this controller is in a level scene,
-        // automatically remember that scene.
         string sceneName = SceneManager.GetActiveScene().name;
 
         if (sceneName != "BookScene")
@@ -43,7 +40,6 @@ public class PauseMenuController : MonoBehaviour
         Time.timeScale = 1f;
     }
 
-    // Called by Animation Event
     public void ShowButtons()
     {
         backButton.SetActive(true);
@@ -74,6 +70,7 @@ public class PauseMenuController : MonoBehaviour
         Time.timeScale = 1f;
 
         BookManager.requestedPage = 0;
+        BookManager.openedMapFromPause = true;
 
         SceneManager.LoadScene("BookScene");
     }
@@ -83,6 +80,7 @@ public class PauseMenuController : MonoBehaviour
         Time.timeScale = 1f;
 
         BookManager.requestedPage = 1;
+        BookManager.openedMapFromPause = true;
 
         SceneManager.LoadScene("BookScene");
     }
