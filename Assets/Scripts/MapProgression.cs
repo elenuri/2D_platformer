@@ -114,7 +114,7 @@ public class MapProgression : MonoBehaviour
             yangiHotspot.SetActive(false);
 
         // --------------------------------------------------
-        // NORMAL PROGRESSION
+        // NORMAL GAME PROGRESS
         // --------------------------------------------------
 
         switch (GameProgress.mapState)
@@ -123,19 +123,16 @@ public class MapProgression : MonoBehaviour
                 break;
 
             case 1:
-                // Goma completed
                 gomaHotspot.SetActive(true);
                 break;
 
             case 2:
-                // Guri completed
                 gomaHotspot.SetActive(true);
                 guriHotspot.SetActive(true);
                 guriPathFinished.SetActive(true);
                 break;
 
             case 3:
-                // Rangi completed
                 gomaHotspot.SetActive(true);
                 guriHotspot.SetActive(true);
                 rangiHotspot.SetActive(true);
@@ -145,7 +142,6 @@ public class MapProgression : MonoBehaviour
                 break;
 
             case 4:
-                // Kiri completed
                 gomaHotspot.SetActive(true);
                 guriHotspot.SetActive(true);
                 rangiHotspot.SetActive(true);
@@ -157,7 +153,6 @@ public class MapProgression : MonoBehaviour
                 break;
 
             case 5:
-                // Game finished
                 gomaHotspot.SetActive(true);
                 guriHotspot.SetActive(true);
                 rangiHotspot.SetActive(true);
@@ -172,51 +167,102 @@ public class MapProgression : MonoBehaviour
         }
 
         // --------------------------------------------------
-        // PAUSE MENU OVERRIDE
+        // CURRENT LEVEL OVERRIDE
         // --------------------------------------------------
-        // mapState tells us what has been COMPLETED.
-        // currentLevelScene tells us what level we're CURRENTLY IN.
 
         string currentLevel = PauseMenuController.currentLevelScene;
 
-        if (currentLevel == "Guri_Level")
+        // Goma is the first level.
+        // mapState is still 0 while playing it,
+        // so we need to show Goma manually.
+        if (currentLevel == "Goma_Level")
         {
-            gomaHotspot.SetActive(true);
-            guriHotspot.SetActive(true);
-            guriPathFinished.SetActive(true);
+            if (gomaHotspot != null)
+                gomaHotspot.SetActive(true);
         }
+
+        else if (currentLevel == "Guri_Level")
+        {
+            if (gomaHotspot != null)
+                gomaHotspot.SetActive(true);
+
+            if (guriHotspot != null)
+                guriHotspot.SetActive(true);
+
+            if (guriPathFinished != null)
+                guriPathFinished.SetActive(true);
+        }
+
         else if (currentLevel == "Rangi_Level")
         {
-            gomaHotspot.SetActive(true);
-            guriHotspot.SetActive(true);
-            rangiHotspot.SetActive(true);
+            if (gomaHotspot != null)
+                gomaHotspot.SetActive(true);
 
-            guriPathFinished.SetActive(true);
-            rangiPathFinished.SetActive(true);
+            if (guriHotspot != null)
+                guriHotspot.SetActive(true);
+
+            if (rangiHotspot != null)
+                rangiHotspot.SetActive(true);
+
+            if (guriPathFinished != null)
+                guriPathFinished.SetActive(true);
+
+            if (rangiPathFinished != null)
+                rangiPathFinished.SetActive(true);
         }
+
         else if (currentLevel == "Kiri_Level")
         {
-            gomaHotspot.SetActive(true);
-            guriHotspot.SetActive(true);
-            rangiHotspot.SetActive(true);
-            kiriHotspot.SetActive(true);
+            if (gomaHotspot != null)
+                gomaHotspot.SetActive(true);
 
-            guriPathFinished.SetActive(true);
-            rangiPathFinished.SetActive(true);
-            kiriPathFinished.SetActive(true);
+            if (guriHotspot != null)
+                guriHotspot.SetActive(true);
+
+            if (rangiHotspot != null)
+                rangiHotspot.SetActive(true);
+
+            if (kiriHotspot != null)
+                kiriHotspot.SetActive(true);
+
+            if (guriPathFinished != null)
+                guriPathFinished.SetActive(true);
+
+            if (rangiPathFinished != null)
+                rangiPathFinished.SetActive(true);
+
+            if (kiriPathFinished != null)
+                kiriPathFinished.SetActive(true);
         }
+
         else if (currentLevel == "Yangi_Level")
         {
-            gomaHotspot.SetActive(true);
-            guriHotspot.SetActive(true);
-            rangiHotspot.SetActive(true);
-            kiriHotspot.SetActive(true);
-            yangiHotspot.SetActive(true);
+            if (gomaHotspot != null)
+                gomaHotspot.SetActive(true);
 
-            guriPathFinished.SetActive(true);
-            rangiPathFinished.SetActive(true);
-            kiriPathFinished.SetActive(true);
-            yangiPathFinished.SetActive(true);
+            if (guriHotspot != null)
+                guriHotspot.SetActive(true);
+
+            if (rangiHotspot != null)
+                rangiHotspot.SetActive(true);
+
+            if (kiriHotspot != null)
+                kiriHotspot.SetActive(true);
+
+            if (yangiHotspot != null)
+                yangiHotspot.SetActive(true);
+
+            if (guriPathFinished != null)
+                guriPathFinished.SetActive(true);
+
+            if (rangiPathFinished != null)
+                rangiPathFinished.SetActive(true);
+
+            if (kiriPathFinished != null)
+                kiriPathFinished.SetActive(true);
+
+            if (yangiPathFinished != null)
+                yangiPathFinished.SetActive(true);
         }
     }
 

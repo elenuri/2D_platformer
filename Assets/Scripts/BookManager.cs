@@ -19,6 +19,9 @@ public class BookManager : MonoBehaviour
     public MapProgression mapProgression;
     public GameObject levelMap;
 
+    [Header("Pause Menu")]
+    public GameObject pauseMenu;
+
     public static int requestedPage = -1;
 
     // Kept for compatibility with PauseMenuController
@@ -134,5 +137,22 @@ public class BookManager : MonoBehaviour
         pageAnimator.Play("Idle", 0, 0f);
 
         isFlipping = false;
+    }
+
+    public void BackToPauseMenu()
+    {
+        if (levelMap != null)
+            levelMap.SetActive(false);
+
+        if (pauseMenu != null)
+        {
+            pauseMenu.SetActive(true);
+
+            PauseMenuController pauseController =
+                pauseMenu.GetComponent<PauseMenuController>();
+
+            if (pauseController != null)
+                pauseController.ShowButtons();
+        }
     }
 }

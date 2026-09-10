@@ -1,0 +1,2977 @@
+fileFormatVersion: 2
+guid: 1081f59624302044d86e8763d7fa01d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3395711514767752533
+    second: fgstars_0
+  - first:
+      213: -4848006512890780481
+    second: fgstars_1
+  - first:
+      213: 8004953713267762535
+    second: fgstars_2
+  - first:
+      213: -4760886204650004252
+    second: fgstars_3
+  - first:
+      213: 2461134333709210728
+    second: fgstars_4
+  - first:
+      213: -4522421272265546178
+    second: fgstars_5
+  - first:
+      213: 7866560978175300071
+    second: fgstars_6
+  - first:
+      213: -3354773493495414382
+    second: fgstars_7
+  - first:
+      213: -4789504543034793068
+    second: fgstars_8
+  - first:
+      213: -2850937323770446423
+    second: fgstars_9
+  - first:
+      213: -295606090134976863
+    second: fgstars_10
+  - first:
+      213: -5002681812139255125
+    second: fgstars_11
+  - first:
+      213: -6105974887309176911
+    second: fgstars_12
+  - first:
+      213: -2698941008442285842
+    second: fgstars_13
+  - first:
+      213: 3932436266446573689
+    second: fgstars_14
+  - first:
+      213: -2758592557137239783
+    second: fgstars_15
+  - first:
+      213: -8973472938943513786
+    second: fgstars_16
+  - first:
+      213: -1502123793182881155
+    second: fgstars_17
+  - first:
+      213: -6390078992071565196
+    second: fgstars_18
+  - first:
+      213: 4818575903886443207
+    second: fgstars_19
+  - first:
+      213: -6896698489417533305
+    second: fgstars_20
+  - first:
+      213: -2527871514453980479
+    second: fgstars_21
+  - first:
+      213: -84967445944573383
+    second: fgstars_22
+  - first:
+      213: -8623839674807318985
+    second: fgstars_23
+  - first:
+      213: 857090542586689705
+    second: fgstars_24
+  - first:
+      213: 7294749419815301191
+    second: fgstars_25
+  - first:
+      213: 7009256527264469288
+    second: fgstars_26
+  - first:
+      213: -7632674863422905250
+    second: fgstars_27
+  - first:
+      213: -8055734400536732207
+    second: fgstars_28
+  - first:
+      213: 8608582659877456852
+    second: fgstars_29
+  - first:
+      213: 717327973534791804
+    second: fgstars_30
+  - first:
+      213: 1346828612968084056
+    second: fgstars_31
+  - first:
+      213: 6837684806879349329
+    second: fgstars_32
+  - first:
+      213: 4128561768498110996
+    second: fgstars_33
+  - first:
+      213: -3468550345441638208
+    second: fgstars_34
+  - first:
+      213: -6797186517861810714
+    second: fgstars_35
+  - first:
+      213: -6261619763650527958
+    second: fgstars_36
+  - first:
+      213: -378141316020964832
+    second: fgstars_37
+  - first:
+      213: 57509810812917555
+    second: fgstars_38
+  - first:
+      213: 1020576663613271960
+    second: fgstars_39
+  - first:
+      213: -4062565635502835637
+    second: fgstars_40
+  - first:
+      213: -8556151021649360990
+    second: fgstars_41
+  - first:
+      213: -5072632252431687889
+    second: fgstars_42
+  - first:
+      213: -7466294250181214345
+    second: fgstars_43
+  - first:
+      213: -7661153744618421485
+    second: fgstars_44
+  - first:
+      213: -542225777614545080
+    second: fgstars_45
+  - first:
+      213: 4531045330016103759
+    second: fgstars_46
+  - first:
+      213: 1835976009727649168
+    second: fgstars_47
+  - first:
+      213: 8946090018153284962
+    second: fgstars_48
+  - first:
+      213: 1650050979906775937
+    second: fgstars_49
+  - first:
+      213: 6783444809775164469
+    second: fgstars_50
+  - first:
+      213: 3192440477733988076
+    second: fgstars_51
+  - first:
+      213: 8020397630078301421
+    second: fgstars_52
+  - first:
+      213: 7550974048192223620
+    second: fgstars_53
+  - first:
+      213: -4981788613378031201
+    second: fgstars_54
+  - first:
+      213: -8608393788580346736
+    second: fgstars_55
+  - first:
+      213: -6396760580432500460
+    second: fgstars_56
+  - first:
+      213: -6305999381725599026
+    second: fgstars_57
+  - first:
+      213: -3862432748765169610
+    second: fgstars_58
+  - first:
+      213: -834710754878725260
+    second: fgstars_59
+  - first:
+      213: -700447048634592891
+    second: fgstars_60
+  - first:
+      213: 6734408014903774518
+    second: fgstars_61
+  - first:
+      213: -4785470812709399638
+    second: fgstars_62
+  - first:
+      213: 7821601178030764581
+    second: fgstars_63
+  - first:
+      213: 4857001987338202927
+    second: fgstars_64
+  - first:
+      213: -7503583644976120707
+    second: fgstars_65
+  - first:
+      213: -685298680462749314
+    second: fgstars_66
+  - first:
+      213: 3564091439619732564
+    second: fgstars_67
+  - first:
+      213: -7846033166735691889
+    second: fgstars_68
+  - first:
+      213: 5182493595158691973
+    second: fgstars_69
+  - first:
+      213: 7419335467185081269
+    second: fgstars_70
+  - first:
+      213: -3475227414250010579
+    second: fgstars_71
+  - first:
+      213: -2592766153235227279
+    second: fgstars_72
+  - first:
+      213: 4900857461722120190
+    second: fgstars_73
+  - first:
+      213: 8294148605157569771
+    second: fgstars_74
+  - first:
+      213: 6502764063482856433
+    second: fgstars_75
+  - first:
+      213: 3616911498133552379
+    second: fgstars_76
+  - first:
+      213: -7838905310816243115
+    second: fgstars_77
+  - first:
+      213: -4884229412107008687
+    second: fgstars_78
+  - first:
+      213: -5617853538291451546
+    second: fgstars_79
+  - first:
+      213: -411325860822547005
+    second: fgstars_80
+  - first:
+      213: -8677361696585395871
+    second: fgstars_81
+  - first:
+      213: 4239344485982502647
+    second: fgstars_82
+  - first:
+      213: 4780059003012643563
+    second: fgstars_83
+  - first:
+      213: 5995775283094491281
+    second: fgstars_84
+  - first:
+      213: -5555342877134524486
+    second: fgstars_85
+  - first:
+      213: 8286100554066324329
+    second: fgstars_86
+  - first:
+      213: 8015854735636674170
+    second: fgstars_87
+  - first:
+      213: 8620488234238199651
+    second: fgstars_88
+  - first:
+      213: 6676051203257972934
+    second: fgstars_89
+  - first:
+      213: 3712298330878254271
+    second: fgstars_90
+  - first:
+      213: 8708288055087521450
+    second: fgstars_91
+  - first:
+      213: -1932568561060907456
+    second: fgstars_92
+  - first:
+      213: 8827477272133950805
+    second: fgstars_93
+  - first:
+      213: -4773096806061705593
+    second: fgstars_94
+  - first:
+      213: -1644312892711012141
+    second: fgstars_95
+  - first:
+      213: 2450388141497717328
+    second: fgstars_96
+  - first:
+      213: 1482261507766671024
+    second: fgstars_97
+  - first:
+      213: 8502068817053317606
+    second: fgstars_98
+  - first:
+      213: -4808727270402022582
+    second: fgstars_99
+  - first:
+      213: -5264377289989206123
+    second: fgstars_100
+  - first:
+      213: 1519713792529562516
+    second: fgstars_101
+  - first:
+      213: -1858623200464062284
+    second: fgstars_102
+  - first:
+      213: 7821763485564619731
+    second: fgstars_103
+  - first:
+      213: 3277196890971489989
+    second: fgstars_104
+  - first:
+      213: 263082267223830320
+    second: fgstars_105
+  - first:
+      213: 2674261322038425092
+    second: fgstars_106
+  - first:
+      213: -7117935113729523687
+    second: fgstars_107
+  - first:
+      213: 1724521604210462260
+    second: fgstars_108
+  - first:
+      213: 517597375134842119
+    second: fgstars_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fgstars_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1958
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d7f65a1adff1f20800000000000000
+      internalID: 3395711514767752533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_1
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1986
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb46d5a23cb68bcb0800000000000000
+      internalID: -4848006512890780481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_2
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2027
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765e4ca7dfe471f60800000000000000
+      internalID: 8004953713267762535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2034
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e067cb983fededb0800000000000000
+      internalID: -4760886204650004252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_4
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1986
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864514903a4b72220800000000000000
+      internalID: 2461134333709210728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_5
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 2035
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3621fd40d12d31c0800000000000000
+      internalID: -4522421272265546178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_6
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 2042
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e19614e783ab2d60800000000000000
+      internalID: 7866560978175300071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_7
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2013
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2914f4238437171d0800000000000000
+      internalID: -3354773493495414382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_8
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2024
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493aa467ef2488db0800000000000000
+      internalID: -4789504543034793068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_9
+      rect:
+        serializedVersion: 2
+        x: 3694
+        y: 2026
+        width: 76
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad72c3eb9f6f68d0800000000000000
+      internalID: -2850937323770446423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_10
+      rect:
+        serializedVersion: 2
+        x: 3953
+        y: 2021
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a60014c3dbc5ebf0800000000000000
+      internalID: -295606090134976863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1975
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baad12fa567e29ab0800000000000000
+      internalID: -5002681812139255125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_12
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1898
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf0b7ad038334ba0800000000000000
+      internalID: -6105974887309176911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_13
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1992
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee02012d37f6b8ad0800000000000000
+      internalID: -2698941008442285842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_14
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1990
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970596b03f1d29630800000000000000
+      internalID: 3932436266446573689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_15
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 1979
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9116cc75fa287b9d0800000000000000
+      internalID: -2758592557137239783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_16
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 1969
+        width: 16
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bf0b0d7e1d77380800000000000000
+      internalID: -8973472938943513786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_17
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1923
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a0ca26e52672be0800000000000000
+      internalID: -1502123793182881155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_18
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1935
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47063e64301e157a0800000000000000
+      internalID: -6390078992071565196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_19
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 1939
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2886231450fd240800000000000000
+      internalID: 4818575903886443207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_20
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 1950
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7887b4f93410a40a0800000000000000
+      internalID: -6896698489417533305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1888
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca442730423becd0800000000000000
+      internalID: -2527871514453980479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_22
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1899
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932600fde8222def0800000000000000
+      internalID: -84967445944573383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_23
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1892
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736803fb187f15880800000000000000
+      internalID: -8623839674807318985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_24
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1905
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8f933be4ff4eb00800000000000000
+      internalID: 857090542586689705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_25
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1913
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740f395b2f72c3560800000000000000
+      internalID: 7294749419815301191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_26
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 1912
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821df27cca1e54160800000000000000
+      internalID: 7009256527264469288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_27
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 1916
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54ef9fb6aa431690800000000000000
+      internalID: -7632674863422905250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_28
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 1874
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd1d1b6e38443090800000000000000
+      internalID: -8055734400536732207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_29
+      rect:
+        serializedVersion: 2
+        x: 4066
+        y: 1888
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db4595a154d77770800000000000000
+      internalID: 8608582659877456852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_30
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1816
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78fdf9cdf574f900800000000000000
+      internalID: 717327973534791804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_31
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1858
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8527b49dc75e0b210800000000000000
+      internalID: 1346828612968084056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_32
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1868
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a0120ba1654ee50800000000000000
+      internalID: 6837684806879349329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_33
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 1858
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412a69ced099b4930800000000000000
+      internalID: 4128561768498110996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_34
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 1876
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8846686db3ddfc0800000000000000
+      internalID: -3468550345441638208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_35
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1782
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edb5c200ea8ba1a0800000000000000
+      internalID: -6797186517861810714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_36
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1749
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d7b0d10024a19a0800000000000000
+      internalID: -6261619763650527958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_37
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1823
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022fbaff97290caf0800000000000000
+      internalID: -378141316020964832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_38
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 1782
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3379a944ed05cc000800000000000000
+      internalID: 57509810812917555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_39
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1793
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fe8bc7111d92e00800000000000000
+      internalID: 1020576663613271960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1654
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48f423341ede97c0800000000000000
+      internalID: -4062565635502835637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_41
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1691
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a78efd6af1724980800000000000000
+      internalID: -8556151021649360990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_42
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1732
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f9e95a7d36a99b0800000000000000
+      internalID: -5072632252431687889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_43
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1678
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f386500f4626890800000000000000
+      internalID: -7466294250181214345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_44
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1670
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3138d52824d1ea590800000000000000
+      internalID: -7661153744618421485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_45
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1658
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f99313780a978f0800000000000000
+      internalID: -542225777614545080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_46
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1646
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d6dcc98b181ee30800000000000000
+      internalID: 4531045330016103759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_47
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 1601
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095a4f31472ba7910800000000000000
+      internalID: 1835976009727649168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_48
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 1149
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265c1bc1975e62c70800000000000000
+      internalID: 8946090018153284962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_49
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 1127
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18be0a6bf9826e610800000000000000
+      internalID: 1650050979906775937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_50
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 1123
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cad104d13a32e50800000000000000
+      internalID: 6783444809775164469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_51
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1033
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6a9e143b3dd4c20800000000000000
+      internalID: 3192440477733988076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_52
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 926
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4b332962d2e4f60800000000000000
+      internalID: 8020397630078301421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_53
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 959
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489d0bad3e27ac860800000000000000
+      internalID: 7550974048192223620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_54
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 972
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91448996a12ddab0800000000000000
+      internalID: -4981788613378031201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_55
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 889
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0944df06577d88880800000000000000
+      internalID: -8608393788580346736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_56
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 793
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4196912c4242a37a0800000000000000
+      internalID: -6396760580432500460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_57
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 820
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecaa96219f69c78a0800000000000000
+      internalID: -6305999381725599026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_58
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 769
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638340901e1e56ac0800000000000000
+      internalID: -3862432748765169610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_59
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 720
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473614dadf28a64f0800000000000000
+      internalID: -834710754878725260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_60
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 716
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5811a22de138746f0800000000000000
+      internalID: -700447048634592891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_61
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 637
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d02ecb86c657d50800000000000000
+      internalID: 6734408014903774518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_62
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 538
+        width: 30
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3d47d76a7969db0800000000000000
+      internalID: -4785470812709399638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_63
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 397
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522fc4fa4d8eb8c60800000000000000
+      internalID: 7821601178030764581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_64
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 414
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fe8a0f299876340800000000000000
+      internalID: 4857001987338202927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_65
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 260
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c74ca3e6aedd790800000000000000
+      internalID: -7503583644976120707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_66
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 320
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7159f12b745d76f0800000000000000
+      internalID: -685298680462749314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_67
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 274
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4547b8de742367130800000000000000
+      internalID: 3564091439619732564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_68
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 250
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f29c8a76a4d1390800000000000000
+      internalID: -7846033166735691889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_69
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 276
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580cb2e777aebe740800000000000000
+      internalID: 5182493595158691973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_70
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 285
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb060f4c46c6f660800000000000000
+      internalID: 7419335467185081269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_71
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 180
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28cdeb441385cfc0800000000000000
+      internalID: -3475227414250010579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_72
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 271
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d12c2bbe4a40cd0800000000000000
+      internalID: -2592766153235227279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_73
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efff4c445e7530440800000000000000
+      internalID: 4900857461722120190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_74
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 182
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4f7bc463cba1370800000000000000
+      internalID: 8294148605157569771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_75
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 146
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3421e66757e3a50800000000000000
+      internalID: 6502764063482856433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_76
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 163
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcb64628d9d13230800000000000000
+      internalID: 3616911498133552379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_77
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 148
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552ffd0f62d963390800000000000000
+      internalID: -7838905310816243115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_78
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 156
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155c8d93a3bb73cb0800000000000000
+      internalID: -4884229412107008687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_79
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 168
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66977f9b8ff5902b0800000000000000
+      internalID: -5617853538291451546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_80
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 124
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c58db21f4daa4af0800000000000000
+      internalID: -411325860822547005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_81
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 114
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1615277f281d39780800000000000000
+      internalID: -8677361696585395871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_82
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 86
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe7f77595d25da30800000000000000
+      internalID: 4239344485982502647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_83
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 115
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaf9ff565e265240800000000000000
+      internalID: 4780059003012643563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_84
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 126
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1901aed5ad5453350800000000000000
+      internalID: 5995775283094491281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_85
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 128
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf66e2361577e2b0800000000000000
+      internalID: -5555342877134524486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_86
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b6a426d842ef270800000000000000
+      internalID: 8286100554066324329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_87
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 0
+        width: 79
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76b1c889690e3f60800000000000000
+      internalID: 8015854735636674170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_88
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 87
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367c330306022a770800000000000000
+      internalID: 8620488234238199651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_89
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 33
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8b288b23916ac50800000000000000
+      internalID: 6676051203257972934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_90
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 45
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc1640d9abb48330800000000000000
+      internalID: 3712298330878254271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_91
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 48
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaed44df8dd0ad870800000000000000
+      internalID: 8708288055087521450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_92
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 0
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04670e502232e25e0800000000000000
+      internalID: -1932568561060907456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_93
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 18
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dd06c1fcf718a70800000000000000
+      internalID: 8827477272133950805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_94
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 24
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786f32c6ebd82cdb0800000000000000
+      internalID: -4773096806061705593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_95
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 10
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d87d52d22a3e29e0800000000000000
+      internalID: -1644312892711012141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_96
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 8
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0521dcf2807810220800000000000000
+      internalID: 2450388141497717328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_97
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 0
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6daaaecfc029410800000000000000
+      internalID: 1482261507766671024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_98
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 22
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e973601b8a6df570800000000000000
+      internalID: 8502068817053317606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_99
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 33
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4324f97608f34db0800000000000000
+      internalID: -4808727270402022582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_100
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 41
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f4f822fbc21f6b0800000000000000
+      internalID: -5264377289989206123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_101
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 43
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b7cfb74ab171510800000000000000
+      internalID: 1519713792529562516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_102
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 0
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b83a0deb08d436e0800000000000000
+      internalID: -1858623200464062284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_103
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 0
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db433ad27c7c8c60800000000000000
+      internalID: 7821763485564619731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_104
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 0
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6ce518531fa7d20800000000000000
+      internalID: 3277196890971489989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_105
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 4
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fa49c9de7a6a300800000000000000
+      internalID: 263082267223830320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_106
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406baa8e082ec1520800000000000000
+      internalID: 2674261322038425092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_107
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 0
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9104fdbf9b3083d90800000000000000
+      internalID: -7117935113729523687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_108
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 0
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e837a134bbee710800000000000000
+      internalID: 1724521604210462260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fgstars_109
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 0
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d36910210ee2700800000000000000
+      internalID: 517597375134842119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fgstars_0: 3395711514767752533
+      fgstars_1: -4848006512890780481
+      fgstars_10: -295606090134976863
+      fgstars_100: -5264377289989206123
+      fgstars_101: 1519713792529562516
+      fgstars_102: -1858623200464062284
+      fgstars_103: 7821763485564619731
+      fgstars_104: 3277196890971489989
+      fgstars_105: 263082267223830320
+      fgstars_106: 2674261322038425092
+      fgstars_107: -7117935113729523687
+      fgstars_108: 1724521604210462260
+      fgstars_109: 517597375134842119
+      fgstars_11: -5002681812139255125
+      fgstars_12: -6105974887309176911
+      fgstars_13: -2698941008442285842
+      fgstars_14: 3932436266446573689
+      fgstars_15: -2758592557137239783
+      fgstars_16: -8973472938943513786
+      fgstars_17: -1502123793182881155
+      fgstars_18: -6390078992071565196
+      fgstars_19: 4818575903886443207
+      fgstars_2: 8004953713267762535
+      fgstars_20: -6896698489417533305
+      fgstars_21: -2527871514453980479
+      fgstars_22: -84967445944573383
+      fgstars_23: -8623839674807318985
+      fgstars_24: 857090542586689705
+      fgstars_25: 7294749419815301191
+      fgstars_26: 7009256527264469288
+      fgstars_27: -7632674863422905250
+      fgstars_28: -8055734400536732207
+      fgstars_29: 8608582659877456852
+      fgstars_3: -4760886204650004252
+      fgstars_30: 717327973534791804
+      fgstars_31: 1346828612968084056
+      fgstars_32: 6837684806879349329
+      fgstars_33: 4128561768498110996
+      fgstars_34: -3468550345441638208
+      fgstars_35: -6797186517861810714
+      fgstars_36: -6261619763650527958
+      fgstars_37: -378141316020964832
+      fgstars_38: 57509810812917555
+      fgstars_39: 1020576663613271960
+      fgstars_4: 2461134333709210728
+      fgstars_40: -4062565635502835637
+      fgstars_41: -8556151021649360990
+      fgstars_42: -5072632252431687889
+      fgstars_43: -7466294250181214345
+      fgstars_44: -7661153744618421485
+      fgstars_45: -542225777614545080
+      fgstars_46: 4531045330016103759
+      fgstars_47: 1835976009727649168
+      fgstars_48: 8946090018153284962
+      fgstars_49: 1650050979906775937
+      fgstars_5: -4522421272265546178
+      fgstars_50: 6783444809775164469
+      fgstars_51: 3192440477733988076
+      fgstars_52: 8020397630078301421
+      fgstars_53: 7550974048192223620
+      fgstars_54: -4981788613378031201
+      fgstars_55: -8608393788580346736
+      fgstars_56: -6396760580432500460
+      fgstars_57: -6305999381725599026
+      fgstars_58: -3862432748765169610
+      fgstars_59: -834710754878725260
+      fgstars_6: 7866560978175300071
+      fgstars_60: -700447048634592891
+      fgstars_61: 6734408014903774518
+      fgstars_62: -4785470812709399638
+      fgstars_63: 7821601178030764581
+      fgstars_64: 4857001987338202927
+      fgstars_65: -7503583644976120707
+      fgstars_66: -685298680462749314
+      fgstars_67: 3564091439619732564
+      fgstars_68: -7846033166735691889
+      fgstars_69: 5182493595158691973
+      fgstars_7: -3354773493495414382
+      fgstars_70: 7419335467185081269
+      fgstars_71: -3475227414250010579
+      fgstars_72: -2592766153235227279
+      fgstars_73: 4900857461722120190
+      fgstars_74: 8294148605157569771
+      fgstars_75: 6502764063482856433
+      fgstars_76: 3616911498133552379
+      fgstars_77: -7838905310816243115
+      fgstars_78: -4884229412107008687
+      fgstars_79: -5617853538291451546
+      fgstars_8: -4789504543034793068
+      fgstars_80: -411325860822547005
+      fgstars_81: -8677361696585395871
+      fgstars_82: 4239344485982502647
+      fgstars_83: 4780059003012643563
+      fgstars_84: 5995775283094491281
+      fgstars_85: -5555342877134524486
+      fgstars_86: 8286100554066324329
+      fgstars_87: 8015854735636674170
+      fgstars_88: 8620488234238199651
+      fgstars_89: 6676051203257972934
+      fgstars_9: -2850937323770446423
+      fgstars_90: 3712298330878254271
+      fgstars_91: 8708288055087521450
+      fgstars_92: -1932568561060907456
+      fgstars_93: 8827477272133950805
+      fgstars_94: -4773096806061705593
+      fgstars_95: -1644312892711012141
+      fgstars_96: 2450388141497717328
+      fgstars_97: 1482261507766671024
+      fgstars_98: 8502068817053317606
+      fgstars_99: -4808727270402022582
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
