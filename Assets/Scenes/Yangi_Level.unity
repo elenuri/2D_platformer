@@ -6436,7 +6436,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &751353466
 RectTransform:
   m_ObjectHideFlags: 0
@@ -40457,6 +40457,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DrawingSystem
   lineRenderer: {fileID: 1052685393}
   minPointDistance: 0.1
+  brushMaterial: {fileID: 2100000, guid: 99eedabbbee96a245b7ad5e0c12571a3, type: 2}
+  brushColor: {r: 1, g: 1, b: 1, a: 1}
+  brushWidth: 0.6
   platformPrefab: {fileID: 4360555599289136995, guid: 4bb2873e3de973740a9895066e427ee6, type: 3}
   maxPlatformLength: 4
   lineTolerance: 0.2
@@ -40734,7 +40737,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1155555821
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40837,9 +40840,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PauseMenuController
   pauseMenu: {fileID: 1324646398}
   backButton: {fileID: 1217792818}
-  homeButton: {fileID: 751353465}
-  instructionsButton: {fileID: 1225761412}
-  levelMapButton: {fileID: 1370018197}
 --- !u!1 &1199282855
 GameObject:
   m_ObjectHideFlags: 0
@@ -41111,7 +41111,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1225761413
 RectTransform:
   m_ObjectHideFlags: 0
@@ -41354,7 +41354,7 @@ Transform:
   m_GameObject: {fileID: 1271729605}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 121.61, y: 1.64, z: 0}
+  m_LocalPosition: {x: -0.2944, y: 1.64, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -41770,9 +41770,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PauseMenuController
   pauseMenu: {fileID: 0}
   backButton: {fileID: 1217792818}
-  homeButton: {fileID: 751353465}
-  instructionsButton: {fileID: 1225761412}
-  levelMapButton: {fileID: 1370018197}
 --- !u!1 &1357551506
 GameObject:
   m_ObjectHideFlags: 0
@@ -41883,7 +41880,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1370018198
 MonoBehaviour:
   m_ObjectHideFlags: 0

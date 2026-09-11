@@ -3,8 +3,6 @@ using UnityEngine.SceneManagement;
 
 public class SceneLoader : MonoBehaviour
 {
-    // ---------- LOAD LEVELS ----------
-
     public void LoadGoma()
     {
         SceneManager.LoadScene("Goma_Level");
@@ -30,36 +28,33 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene("Yangi_Level");
     }
 
-
-    // ---------- FINISH LEVELS ----------
-
     public void FinishGoma()
     {
         GameProgress.mapState = 1;
-        SceneManager.LoadScene("Goma_Cutscene");
+        SceneManager.LoadScene("BookScene");
     }
 
     public void FinishGuri()
     {
         GameProgress.mapState = 2;
-        SceneManager.LoadScene("Guri_Cutscene");
+        SceneManager.LoadScene("BookScene");
     }
 
     public void FinishRangi()
     {
         GameProgress.mapState = 3;
-        SceneManager.LoadScene("Rangi_Cutscene");
+        SceneManager.LoadScene("BookScene");
     }
 
     public void FinishKiri()
     {
         GameProgress.mapState = 4;
-        SceneManager.LoadScene("Kiri_Cutscene");
+        SceneManager.LoadScene("BookScene");
     }
 
     public void FinishYangi()
     {
         GameProgress.mapState = 5;
-        SceneManager.LoadScene("Yangi_Cutscene");
+        SceneManager.LoadScene("BookScene");
     }
 }

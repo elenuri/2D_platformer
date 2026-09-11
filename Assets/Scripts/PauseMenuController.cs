@@ -8,9 +8,6 @@ public class PauseMenuController : MonoBehaviour
 
     [Header("Buttons")]
     public GameObject backButton;
-    public GameObject homeButton;
-    public GameObject instructionsButton;
-    public GameObject levelMapButton;
 
     public static string currentLevelScene = "";
 
@@ -43,47 +40,14 @@ public class PauseMenuController : MonoBehaviour
     public void ShowButtons()
     {
         backButton.SetActive(true);
-        homeButton.SetActive(true);
-        instructionsButton.SetActive(true);
-        levelMapButton.SetActive(true);
     }
 
     public void HideButtons()
     {
         backButton.SetActive(false);
-        homeButton.SetActive(false);
-        instructionsButton.SetActive(false);
-        levelMapButton.SetActive(false);
     }
 
     // ---------- NAVIGATION ----------
-
-    public void GoHome()
-    {
-        Time.timeScale = 1f;
-
-        SceneManager.LoadScene("BookScene");
-    }
-
-    public void GoToInstructions()
-    {
-        Time.timeScale = 1f;
-
-        BookManager.requestedPage = 0;
-        BookManager.openedMapFromPause = true;
-
-        SceneManager.LoadScene("BookScene");
-    }
-
-    public void GoToLevelMap()
-    {
-        Time.timeScale = 1f;
-
-        BookManager.requestedPage = 1;
-        BookManager.openedMapFromPause = true;
-
-        SceneManager.LoadScene("BookScene");
-    }
 
     public void BackToCurrentLevel()
     {

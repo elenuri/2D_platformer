@@ -7,6 +7,11 @@ public class DrawingSystem : MonoBehaviour
     public LineRenderer lineRenderer;
     public float minPointDistance = 0.1f;
 
+    [Header("Brush Style")]
+    public Material brushMaterial;
+    public Color brushColor = Color.white;
+    public float brushWidth = 0.2f;
+
     [Header("Platform Settings")]
     public GameObject platformPrefab;
     public float maxPlatformLength = 4f;
@@ -25,6 +30,15 @@ public class DrawingSystem : MonoBehaviour
     {
         cam = Camera.main;
         lineRenderer.positionCount = 0;
+
+        // Apply this level's brush style to the drawing preview
+        lineRenderer.material = brushMaterial;
+
+        lineRenderer.startColor = brushColor;
+        lineRenderer.endColor = brushColor;
+
+        lineRenderer.startWidth = brushWidth;
+        lineRenderer.endWidth = brushWidth;
     }
 
     void Update()
@@ -175,7 +189,13 @@ public class DrawingSystem : MonoBehaviour
         DrawnPlatform platform =
             currentPlatform.GetComponent<DrawnPlatform>();
 
-        platform.Initialize(points);
+        // Pass this level's brush style to the platform
+        platform.Initialize(
+            points,
+            brushMaterial,
+            brushColor,
+            brushWidth
+        );
     }
 
     void ClearLine()
